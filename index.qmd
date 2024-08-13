@@ -1,7 +1,18 @@
 ---
-title: "IrisLuo"
+title: "Iris Luo"
+format: 
+  html:
+    css: styles.css
 ---
 
-This is a Quarto website.
+<div class="container">
+  <img src="headshot.jpg" alt="Iris Luo" />
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m Iris Luo, a skilled Data Scientist with Master’s degrees in both Data Science and Economics, and over two years of experience in data analysis, data cleaning, and data visualization. I specialize in leveraging data to uncover insights and create meaningful visualizations that enhance user experiences and optimize business operations.
+
+My expertise spans multiple roles, including Business Analyst, Data Analyst, and Data Scientist. With a strong background in data analysis, machine learning, and natural language processing, I deliver sophisticated data-driven solutions that drive impactful results.
+
+[Learn more about me](about.qmd)
+
+[Checkout My Projects](projects.qmd)

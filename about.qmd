@@ -1,5 +1,69 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+After completing my undergraduate degree, I pursued advanced studies in Economics and Data Science, earning two Master’s degrees. With over two years of experience in data analysis, data cleaning, and data visualization, I have developed a strong foundation in uncovering insights and transforming complex datasets into actionable business intelligence.
+
+## What I Do
+
+I specialize in:
+
+- **Data Cleaning and Transformation**: Ensuring data integrity and preparing datasets for sophisticated analysis by employing best practices in data wrangling.
+- **Data Analysis and Visualization**: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.
+- **Machine Learning and AI Development**: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics.
+
+## My Journey in Data Science and Economics
+
+Driven by a passion for understanding and manipulating data, I pursued a Master’s degree in Economics, followed by a Master’s degree in Data Science at the University of British Columbia. My academic and professional journey has been characterized by hands-on projects that bridge the gap between economic theory and data-driven decision-making. One of my most rewarding experiences was working on a project where I developed comprehensive financial reports and visualizations that significantly streamlined stakeholder reviews.
+
+## Professional Experience
+
+### Data Analyst, Beijing Academy of Social Sciences (Oct 2019 – Jan 2020)
+- Optimized MySQL database queries, reducing page load times by 15% and improving data retrieval speed by 20%, resulting in a smoother user experience across the platform.
+- Conducted in-depth data analysis on over 20,000 records, uncovering critical insights. These findings directly contributed to enhancing educational programs. This led to a 12% improvement in student engagement metrics.
+- Developed and presented detailed reports and dashboards to senior leadership, highlighting KPIs and trends. These insights facilitated data-driven decisions that contributed to a 10% increase in operational efficiency and strategic alignment across departments.
+
+
+### Audit and Assurance Department Intern, Deloitte (Jul 2019 – Aug 2019)
+- Performed financial analysis of Guangshen Railway Co. and Huajun Management Company for their yearly reports published to the public and the government. Utilized Python to analyze over 5,000 data points, identifying key metrics and potential risks, increasing the accuracy of financial assessments by 20%.
+- Conducted a comprehensive data audit and drafted 15+ financial reports using Power BI, creating clear and accessible data visualizations. These visualizations improved report clarity and reduced the time required for senior stakeholders, including directors, executive managers, and company representatives, to review and understand the financial data by 30%.
+
+
+### Investment Banking Management Headquarters Intern, Zhongshan Securities (Apr 2019 – Jun 2019)
+- Conducted valuation and financial modeling, analyzing growth rates, profitability, and competitive advantages, achieving a 95% accuracy rate in valuation premiums. Employed time series models to predict stock prices and used Power BI to present results, providing stakeholders with actionable insights.
+- Streamlined due diligence processes by 20%, conducting in-depth financial analysis and capital structure evaluations, and preparing detailed reports and presentations on private equity opportunities, leading to faster and more informed decision-making.
+
+### Risk Management Department Intern, Agricultural Bank of China (Jul 2018 – Aug 2018)
+- Applied machine learning techniques to analyze 806 auto installment loans, 1,325 home mortgage loans, and 2,021 large consumer installment loans, enabling more accurate customer ratings and risk assessments for the bank.
+
+## Capstone Project
+
+### Data Scientist, Illuminex AI (Apr 2024 – Jun 2024)
+- Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.
+- Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.
+- Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
+
+
+
+## Achievements and Skills
+
+Throughout my career, I've been recognized for my analytical skills and ability to turn data into actionable insights. Some highlights include:
+
+- Developing data visualizations that reduced the time required for report review by 30%.
+- Streamlining data analysis processes, resulting in a 25% reduction in preparation time.
+- Earning a Master's degree in Data Science and Economics, with a focus on applying data-driven solutions to real-world problems.
+
+## Let's Connect
+
+I am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you're looking for a skilled Data Scientist, a proficient Data Analyst, or just want to discuss the latest trends in data analysis, feel free to reach out!
+
+- **Location**: Vancouver, BC
+- **Contact**: [iris0614ubc@gmail.com](mailto:iris0614ubc@gmail.com)
+- **LinkedIn**: [linkedin.com/in/iris-luo](https://www.linkedin.com/in/iris-luo/)
+- **Portfolio**: [iris0614.github.io/IrisLuo](https://iris0614.github.io/IrisLuo)
+
+Thank you for visiting my portfolio. I look forward to connecting with you!
+
+---
+
+[Download my Resume](resume.pdf)

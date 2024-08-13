@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+## Home Scope (UBC MDS Coursework - Dashboard)
+- **Description**: HomeScope is an analytical platform dedicated to illuminating the real estate market's complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.
+- **Technologies Used**: Python, DASH, Altair, Plotly
+- **Link**: [GitHub Repository](https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope/tree/main)
+- **GIF**: ![](homescope.gif)
