@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+   }
+  
+  .container img {
+    width: 200px; /* Adjust this value as needed */
+    margin-right: 20px;
+  }
+  img, svg {
+    vertical-align: middle;
+    width: 150px;
+  }
+  .img-fluid {
+    width: 80%;
+    height: max-content;
+  }
