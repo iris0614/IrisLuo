@@ -1,9 +1,43 @@
 ---
 title: "Projects"
 ---
+## 🦅Airfield Hazards: Bird Tracking at Airports
+- **Description**: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.
+- **Paper**: [Original Paper](airbird.pdf)
+- **Technologies Used**: Python, Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest
+- **Project Pipeline**
 
-## Home Scope (UBC MDS Coursework - Dashboard)
-- **Description**: HomeScope is an analytical platform dedicated to illuminating the real estate market's complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.
-- **Technologies Used**: Python, DASH, Altair, Plotly
-- **Link**: [GitHub Repository](https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope/tree/main)
-- **GIF**: ![](homescope.gif)
+![](img/Pipeline.png)
+
+- **Interaction between the Scripts**
+
+![](img/interaction.png)
+
+
+## <img src="img/ChurnInsights_img.png"> Churn Insights
+
+- **Description**: `Churn insights` is a project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.
+- **Technologies Used**: Python, Tableau, Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy
+- **GitHub**: [GitHub Repository](https://github.com/iris0614/Churn-Insights-Project)
+
+![](img/Churn_insights.gif)
+
+## <img src="img/logo_main.png"> HomeScope
+
+- **Description**: `HomeScope` is an analytical platform dedicated to illuminating the real estate market's complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.
+- **Technologies Used**: Python, Dash, Altair, Plotly, Pandas, PyArrow
+- **GitHub**: [GitHub Repository](https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope)
+- **Link**: [Dashboard Website](https://dsci-532-2024-5-homescope.onrender.com/)
+
+
+![](img/homescope.gif)
+
+## <img src="img/pyxplor_logo.png"> Pyxplor
+
+- **Description**: `pyxplor` is a comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, `pyxplor` aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.
+- **Technologies Used**: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter
+- **GitHub**: [GitHub Repository](https://github.com/UBC-MDS/PyXplor)
+- **Link**: [Docs](https://pyxplor.readthedocs.io/en/latest/?badge=latest)
+
+
+

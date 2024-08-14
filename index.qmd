@@ -6,7 +6,7 @@ format:
 ---
 
 <div class="container">
-  <img src="headshot.jpg" alt="Iris Luo" />
+  <img src="img/headshot.jpg" alt="Iris Luo" />
 </div>
 
 Hi, I’m Iris Luo, a skilled Data Scientist with Master’s degrees in both Data Science and Economics, and over two years of experience in data analysis, data cleaning, and data visualization. I specialize in leveraging data to uncover insights and create meaningful visualizations that enhance user experiences and optimize business operations.
