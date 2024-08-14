@@ -56,32 +56,32 @@
     "text": "Description: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.\nPaper: Original Paper\nTechnologies Used: Python, Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest\nProject Pipeline\n\n\n\nInteraction between the Scripts"
   },
   {
-    "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports-object-deteaction",
-    "href": "projects.html#airfield-hazards-bird-tracking-at-airports-object-deteaction",
+    "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports",
+    "href": "projects.html#airfield-hazards-bird-tracking-at-airports",
     "title": "Projects",
     "section": "",
     "text": "Description: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.\nPaper: Original Paper\nTechnologies Used: Python, Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest\nProject Pipeline\n\n\n\nInteraction between the Scripts"
   },
   {
-    "objectID": "projects.html#churn-insights-etl-dashboard-predictive-modeling",
-    "href": "projects.html#churn-insights-etl-dashboard-predictive-modeling",
+    "objectID": "projects.html#churn-insights",
+    "href": "projects.html#churn-insights",
     "title": "Projects",
-    "section": " Churn Insights (ETL-Dashboard-Predictive Modeling)",
-    "text": "Churn Insights (ETL-Dashboard-Predictive Modeling)\n\nDescription: Churn insights is a project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.\nTechnologies Used: Python, Tableau, Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy\nGitHub: GitHub Repository"
+    "section": " Churn Insights",
+    "text": "Churn Insights\n\nDescription: A project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.\nTechnologies Used: Python, Tableau, Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy\nGitHub: GitHub Repository"
   },
   {
-    "objectID": "projects.html#home-scope-dashboard",
-    "href": "projects.html#home-scope-dashboard",
+    "objectID": "projects.html#homescope",
+    "href": "projects.html#homescope",
     "title": "Projects",
-    "section": " Home Scope (Dashboard)",
-    "text": "Home Scope (Dashboard)\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, Dash, Altair, Plotly, Pandas, PyArrow\nGitHub: GitHub Repository\nLink: Dashboard Website"
+    "section": " HomeScope",
+    "text": "HomeScope\n\nDescription: An analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, Dash, Altair, Plotly, Pandas, PyArrow\nGitHub: GitHub Repository\nLink: Dashboard Website"
   },
   {
-    "objectID": "projects.html#pyxplor-automated-exploratory-data-analysis-eda-package",
-    "href": "projects.html#pyxplor-automated-exploratory-data-analysis-eda-package",
+    "objectID": "projects.html#pyxplor",
+    "href": "projects.html#pyxplor",
     "title": "Projects",
-    "section": " Pyxplor (Automated Exploratory Data Analysis (EDA) Package)",
-    "text": "Pyxplor (Automated Exploratory Data Analysis (EDA) Package)\n\nDescription: pyxplor is a comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies Used: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
+    "section": " Pyxplor",
+    "text": "Pyxplor\n\nDescription: A comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies Used: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
   },
   {
     "objectID": "index.html",
@@ -91,73 +91,10 @@
     "text": "Hi, I’m Iris Luo, a skilled Data Scientist with Master’s degrees in both Data Science and Economics, and over two years of experience in data analysis, data cleaning, and data visualization. I specialize in leveraging data to uncover insights and create meaningful visualizations that enhance user experiences and optimize business operations.\nMy expertise spans multiple roles, including Business Analyst, Data Analyst, and Data Scientist. With a strong background in data analysis, machine learning, and natural language processing, I deliver sophisticated data-driven solutions that drive impactful results.\nLearn more about me\nCheckout My Projects"
   },
   {
-    "objectID": "projects.html#etl-dashboard-predictive-modeling",
-    "href": "projects.html#etl-dashboard-predictive-modeling",
+    "objectID": "projects.html#img-srcimglogo_main.png-width10-height10-homescope",
+    "href": "projects.html#img-srcimglogo_main.png-width10-height10-homescope",
     "title": "Projects",
-    "section": " ETL-Dashboard-Predictive Modeling",
-    "text": "ETL-Dashboard-Predictive Modeling\n\nDescription: Churn insights is a project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.\nTechnologies Used: Python, Tableau, Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy\nGitHub: GitHub Repository"
-  },
-  {
-    "objectID": "projects.html#dashboard",
-    "href": "projects.html#dashboard",
-    "title": "Projects",
-    "section": " Dashboard",
-    "text": "Dashboard\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, Dash, Altair, Plotly, Pandas, PyArrow\nGitHub: GitHub Repository\nLink: Dashboard Website"
-  },
-  {
-    "objectID": "projects.html#automated-exploratory-data-analysis-eda-package",
-    "href": "projects.html#automated-exploratory-data-analysis-eda-package",
-    "title": "Projects",
-    "section": " Automated Exploratory Data Analysis (EDA) Package",
-    "text": "Automated Exploratory Data Analysis (EDA) Package\n\nDescription: pyxplor is a comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies Used: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
-  },
-  {
-    "objectID": "projects.html#automated-exploratory-data-analysis-package",
-    "href": "projects.html#automated-exploratory-data-analysis-package",
-    "title": "Projects",
-    "section": " Automated Exploratory Data Analysis Package",
-    "text": "Automated Exploratory Data Analysis Package\n\nDescription: pyxplor is a comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies Used: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
-  },
-  {
-    "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports",
-    "href": "projects.html#airfield-hazards-bird-tracking-at-airports",
-    "title": "Projects",
-    "section": "",
-    "text": "Description: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.\nPaper: Original Paper\nTechnologies Used: Python, Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest\nProject Pipeline\n\n\n\nInteraction between the Scripts"
-  },
-  {
-    "objectID": "projects.html#section",
-    "href": "projects.html#section",
-    "title": "Projects",
-    "section": "",
-    "text": "Description: Churn insights is a project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.\nTechnologies Used: Python, Tableau, Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy\nGitHub: GitHub Repository"
-  },
-  {
-    "objectID": "projects.html#section-1",
-    "href": "projects.html#section-1",
-    "title": "Projects",
-    "section": "",
-    "text": "Description: pyxplor is a comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies Used: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
-  },
-  {
-    "objectID": "projects.html#churn-insights",
-    "href": "projects.html#churn-insights",
-    "title": "Projects",
-    "section": " Churn Insights",
-    "text": "Churn Insights\n\nDescription: Churn insights is a project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.\nTechnologies Used: Python, Tableau, Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy\nGitHub: GitHub Repository"
-  },
-  {
-    "objectID": "projects.html#homescope",
-    "href": "projects.html#homescope",
-    "title": "Projects",
-    "section": " HomeScope",
-    "text": "HomeScope\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, Dash, Altair, Plotly, Pandas, PyArrow\nGitHub: GitHub Repository\nLink: Dashboard Website"
-  },
-  {
-    "objectID": "projects.html#pyxplor",
-    "href": "projects.html#pyxplor",
-    "title": "Projects",
-    "section": " Pyxplor",
-    "text": "Pyxplor\n\nDescription: pyxplor is a comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies Used: Python, PyPI, Poetry, Pytest, Seaborn, Pandas, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
+    "section": "<img src=“img/logo_main.png” width=‘10’, height=‘10’> HomeScope",
+    "text": "&lt;img src=“img/logo_main.png” width=‘10’, height=‘10’&gt; HomeScope\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, Dash, Altair, Plotly, Pandas, PyArrow\nGitHub: GitHub Repository\nLink: Dashboard Website"
   }
 ]
