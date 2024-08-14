@@ -46,7 +46,7 @@
     "href": "about.html#lets-connect",
     "title": "About Me",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nI am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you’re looking for a skilled Data Scientist, a proficient Data Analyst, or just want to discuss the latest trends in data analysis, feel free to reach out!\n\nLocation: Vancouver, BC\nContact: iris0614ubc@gmail.com\nLinkedIn: linkedin.com/in/iris-luo\nPortfolio: iris0614.github.io/IrisLuo\n\nThank you for visiting my portfolio. I look forward to connecting with you!\n\nDownload my Resume"
+    "text": "Let’s Connect\nI am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you’re looking for a skilled Data Scientist, a proficient Data Analyst, or just want to discuss the latest trends in data analysis, feel free to reach out!\n\nLocation: Vancouver, BC\nContact: iris0614ubc@gmail.com\nLinkedIn: linkedin.com/in/iris-luo\nPortfolio: iris0614.github.io/IrisLuo\n\nThank you for visiting my portfolio. I look forward to connecting with you!"
   },
   {
     "objectID": "projects.html",
@@ -88,13 +88,6 @@
     "href": "index.html",
     "title": "Iris Luo",
     "section": "",
-    "text": "Hi, I’m Iris Luo, a skilled Data Scientist with Master’s degrees in both Data Science and Economics, and over two years of experience in data analysis, data cleaning, and data visualization. I specialize in leveraging data to uncover insights and create meaningful visualizations that enhance user experiences and optimize business operations.\nMy expertise spans multiple roles, including Business Analyst, Data Analyst, and Data Scientist. With a strong background in data analysis, machine learning, and natural language processing, I deliver sophisticated data-driven solutions that drive impactful results.\nLearn more about me\nCheckout My Projects"
-  },
-  {
-    "objectID": "projects.html#img-srcimglogo_main.png-width10-height10-homescope",
-    "href": "projects.html#img-srcimglogo_main.png-width10-height10-homescope",
-    "title": "Projects",
-    "section": "<img src=“img/logo_main.png” width=‘10’, height=‘10’> HomeScope",
-    "text": "&lt;img src=“img/logo_main.png” width=‘10’, height=‘10’&gt; HomeScope\n\nDescription: HomeScope is an analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies Used: Python, Dash, Altair, Plotly, Pandas, PyArrow\nGitHub: GitHub Repository\nLink: Dashboard Website"
+    "text": "Hi, I’m Iris Luo, a skilled Data Scientist with Master’s degrees in both Data Science and Economics, and over two years of experience in data analysis, data cleaning, and data visualization. I specialize in leveraging data to uncover insights and create meaningful visualizations that enhance user experiences and optimize business operations.\nMy expertise spans multiple roles, including Business Analyst, Data Analyst, and Data Scientist. With a strong background in data analysis, machine learning, and natural language processing, I deliver sophisticated data-driven solutions that drive impactful results.\n\nDownload my Resume"
   }
 ]

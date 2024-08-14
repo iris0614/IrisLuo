@@ -1,4 +1,4 @@
-.container {
+container {
     display: flex;
     align-items: flex-start;
    }
@@ -7,10 +7,18 @@
     width: 200px; /* Adjust this value as needed */
     margin-right: 20px;
   }
-  img, svg {
+  .img, svg {
     vertical-align: middle;
   }
   .img-fluid {
     width: 80%;
     height: max-content;
+  }
+  
+  p{
+    text-align: justify;
+  }
+
+  li{
+    text-align: justify;
   }

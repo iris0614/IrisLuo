@@ -13,6 +13,6 @@ Hi, I’m Iris Luo, a skilled Data Scientist with Master’s degrees in both Dat
 
 My expertise spans multiple roles, including Business Analyst, Data Analyst, and Data Scientist. With a strong background in data analysis, machine learning, and natural language processing, I deliver sophisticated data-driven solutions that drive impactful results.
 
-[Learn more about me](about.qmd)
+---
 
-[Checkout My Projects](projects.qmd)
+[Download my Resume](resume.pdf)
