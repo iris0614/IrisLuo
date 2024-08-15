@@ -34,7 +34,7 @@ h1.title {
 
 .center-link {
   text-align: center;
-  /* margin-top: 20px;  Optional: adds space above the link */
+  margin-top: 20px;  /* Optional: adds space above the link */
 }
 
 .center-link a {
