@@ -38,6 +38,14 @@ title: "PROJECTS"
 
 ![](img/homescope.gif)
 
+## <img src="img/logo_crypto.png" width='32' height='32'> CryptoPulse
+
+- **Description**: A Shiny dashboard that allows users to interactively explore cryptocurrency data. It provides insights into various cryptocurrencies, with a focus on Bitcoin and Ethereum.
+- **Technologies (Libraries) Used**: Python (Plotly), R (dplyr), Shiny
+- **GitHub**: [GitHub Repository](https://github.com/iris0614/CryptoPulse)
+
+![](img/demo_crypto.gif)
+
 ## <img src="img/pyxplor_logo.png" width='32' height='32'> Pyxplor
 
 - **Description**: A comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.

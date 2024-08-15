@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "📃My Resume"
+  },
+  {
+    "objectID": "about.html#what-i-do",
+    "href": "about.html#what-i-do",
+    "title": "ABOUT",
+    "section": "What I Do",
+    "text": "What I Do\nI specialize in:\n\nData Cleaning and Transformation: Ensuring data integrity and preparing datasets for sophisticated analysis by employing best practices in data wrangling.\nData Analysis and Visualization: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.\nMachine Learning and AI Development: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "ABOUT",
+    "section": "Education",
+    "text": "Education\n\nMaster of Data Science (GPA: 4.23/4.33)\nUniversity of British Columbia\nVancouver, BC\nSep 2023 – Jun 2024\nRelevant Course: Statistical Inference and Computation, Regression, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing\n\n\nMaster of Science in Economics (GPA: 86.7/100)\nHuazhong University of Science and Technology\nWuhan, China\nSep 2020 – Jun 2023\n\n\nPublic Economics (Exchange) (GPA: 3.7/4.0)\nUniversity of California Berkeley\nCalifornia, United States\nJul 2021 – Aug 2021\n\n\nBachelor of Science in Economics (GPA: 88.63/100)\nCentral China Normal University\nWuhan, China\nSep 2016 – Jun 2020"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "ABOUT",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nData Analyst Intern, Beijing Academy of Social Sciences (Oct 2019 – Jan 2020)\n\nOptimized MySQL database queries, reducing page load times by 15% and improving data retrieval speed by 20%, resulting in a smoother user experience across the platform.\nConducted in-depth data analysis on over 20,000 records, uncovering critical insights. These findings directly contributed to enhancing educational programs. This led to a 12% improvement in student engagement metrics.\nDeveloped and presented detailed reports and dashboards to senior leadership, highlighting KPIs and trends. These insights facilitated data-driven decisions that contributed to a 10% increase in operational efficiency and strategic alignment across departments.\n\n\n\nAudit and Assurance Department Intern, Deloitte (Jul 2019 – Aug 2019)\n\nPerformed financial analysis of Guangshen Railway Co. and Huajun Management Company for their yearly reports published to the public and the government. Utilized Python to analyze over 5,000 data points, identifying key metrics and potential risks, increasing the accuracy of financial assessments by 20%.\nConducted a comprehensive data audit and drafted 15+ financial reports using Power BI, creating clear and accessible data visualizations. These visualizations improved report clarity and reduced the time required for senior stakeholders, including directors, executive managers, and company representatives, to review and understand the financial data by 30%.\n\n\n\nInvestment Banking Management Headquarters Intern, Zhongshan Securities (Apr 2019 – Jun 2019)\n\nConducted valuation and financial modeling, analyzing growth rates, profitability, and competitive advantages, achieving a 90% accuracy rate in valuation premiums. Employed time series models to predict stock prices and used Power BI to present results, providing stakeholders with actionable insights.\nStreamlined due diligence processes by 20%, conducting in-depth financial analysis and capital structure evaluations, and preparing detailed reports and presentations on private equity opportunities, leading to faster and more informed decision-making.\n\n\n\nRisk Management Department Intern, Agricultural Bank of China (Jul 2018 – Aug 2018)\n\nApplied machine learning techniques to analyze 806 auto installment loans, 1,325 home mortgage loans, and 2,021 large consumer installment loans, enabling more accurate customer ratings and risk assessments for the bank."
+  },
+  {
+    "objectID": "about.html#capstone-project",
+    "href": "about.html#capstone-project",
+    "title": "ABOUT",
+    "section": "Capstone Project",
+    "text": "Capstone Project\n\nData Scientist, Illuminex AI (Apr 2024 – Jun 2024)\n\nDeveloped an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.\nPioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.\nManaged large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights."
+  },
+  {
+    "objectID": "about.html#achievements-and-skills",
+    "href": "about.html#achievements-and-skills",
+    "title": "ABOUT",
+    "section": "Achievements and Skills",
+    "text": "Achievements and Skills\nThroughout my career, I’ve been recognized for my analytical skills and ability to turn data into actionable insights. Some highlights include:\n\nDeveloping data visualizations that reduced the time required for report review by 30%.\nStreamlining data analysis processes, resulting in a 25% reduction in preparation time.\nA strong foundation in uncovering insights and transforming complex datasets into actionable business intelligence."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "Still in Progress….🏗"
+  },
+  {
+    "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports",
+    "href": "projects.html#airfield-hazards-bird-tracking-at-airports",
+    "title": "PROJECTS",
+    "section": "🦅Airfield Hazards: Bird Tracking at Airports",
+    "text": "🦅Airfield Hazards: Bird Tracking at Airports\n\nDescription: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.\nPaper: Original Paper\nTechnologies (Libraries) Used: Python (Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest), Makefile, AWS\nModels Tried: RetinaNet, YOLOv8, FasterR-CNN\nProject Pipeline\n\n\n\nInteraction between the Scripts"
+  },
+  {
+    "objectID": "projects.html#churn-insights",
+    "href": "projects.html#churn-insights",
+    "title": "PROJECTS",
+    "section": " Churn Insights",
+    "text": "Churn Insights\n\nDescription: A project that involved key steps such as performing the ETL process and data cleaning in PostgreSQL, followed by data transformations and creating enhanced visualizations in Tableau. We then built and evaluated various machine learning models, including KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression, in Jupyter Notebook. After conducting thorough EDA, we selected the best model to make predictions and present the results.\nTechnologies (Libraries) Used: Python (Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy), Tableau, PostgreSQL\nGitHub: GitHub Repository"
+  },
+  {
+    "objectID": "projects.html#homescope",
+    "href": "projects.html#homescope",
+    "title": "PROJECTS",
+    "section": " HomeScope",
+    "text": "HomeScope\n\nDescription: An analytical platform dedicated to illuminating the real estate market’s complexities. Aimed at stakeholders such as investors, developers, market analysts, and urban planners, it provides actionable insights through the careful analysis of pivotal variables influencing property values.\nTechnologies (Libraries) Used: Python (Altair, Plotly, Pandas, PyArrow), Dash\nGitHub: GitHub Repository\nLink: Dashboard Website"
+  },
+  {
+    "objectID": "projects.html#pyxplor",
+    "href": "projects.html#pyxplor",
+    "title": "PROJECTS",
+    "section": " Pyxplor",
+    "text": "Pyxplor\n\nDescription: A comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies (Libraries) Used: Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iris LUO",
+    "section": "",
+    "text": "Hi👋！I’m Iris Luo, a skilled Data Scientist with dual Master’s degrees in Data Science and Economics, and over two years of experience in data cleaning, data visualization, data modeling, and data analysis."
+  },
+  {
+    "objectID": "projects.html#cryptopulse",
+    "href": "projects.html#cryptopulse",
+    "title": "PROJECTS",
+    "section": " CryptoPulse",
+    "text": "CryptoPulse\n\nDescription: A Shiny dashboard that allows users to interactively explore cryptocurrency data. It provides insights into various cryptocurrencies, with a focus on Bitcoin and Ethereum.\nTechnologies (Libraries) Used: Python (Plotly), R (dplyr), Shiny\nGitHub: GitHub Repository"
+  }
+]

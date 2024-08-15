@@ -19,7 +19,7 @@ format:
   </a>
 </div>
   <p style="text-align: justify;">
-  Hi👋！I’m Iris Luo, a skilled Data Scientist with dual Master's degrees in Data Science and Economics, and over two years of experience in data analysis, data cleaning, data visualization, and data modeling.
+  Hi👋！I’m Iris Luo, a skilled Data Scientist with dual Master's degrees in Data Science and Economics, and over two years of experience in data cleaning, data visualization, data modeling, and data analysis.
 </p>
 </div>
 
