@@ -1,8 +1,7 @@
 ---
-title: "About Me"
+title: "About"
 ---
-
-After completing my undergraduate degree, I pursued advanced studies in Economics and Data Science, earning two Master’s degrees. With over two years of experience in data analysis, data cleaning, and data visualization, I have developed a strong foundation in uncovering insights and transforming complex datasets into actionable business intelligence.
+[My Resume](resume.pdf)
 
 ## What I Do
 
@@ -12,11 +11,32 @@ I specialize in:
 - **Data Analysis and Visualization**: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.
 - **Machine Learning and AI Development**: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics.
 
-## My Journey in Data Science and Economics
+## Education
+### Master of Data Science (GPA: 4.23/4.33)
+**University of British Columbia**  
+*Vancouver, BC*  
+*Sep 2023 – Jun 2024*  
+**[Relevant Coursework](https://ubc-mds.github.io/descriptions/):** Statistical Inference and Computation, Regression, Supervised Learning,  Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
 
-Driven by a passion for understanding and manipulating data, I pursued a Master’s degree in Economics, followed by a Master’s degree in Data Science at the University of British Columbia. My academic and professional journey has been characterized by hands-on projects that bridge the gap between economic theory and data-driven decision-making. One of my most rewarding experiences was working on a project where I developed comprehensive financial reports and visualizations that significantly streamlined stakeholder reviews.
 
-## Professional Experience
+### Master of Science in Economics (GPA: 86.7/100)
+**Huazhong University of Science and Technology**  
+*Wuhan, China*  
+*Sep 2020 – Jun 2023*
+
+
+### Public Economics (Exchange) (GPA: 3.7/4.0)
+**University of California Berkeley**  
+*California, United States*  
+*Jul 2021 – Aug 2021*
+
+
+### Bachelor of Science in Economics (GPA: 88.63/100)
+**Central China Normal University**  
+*Wuhan, China*  
+*Sep 2016 – Jun 2020*
+
+## Work Experience
 
 ### Data Analyst, Beijing Academy of Social Sciences (Oct 2019 – Jan 2020)
 - Optimized MySQL database queries, reducing page load times by 15% and improving data retrieval speed by 20%, resulting in a smoother user experience across the platform.
@@ -30,7 +50,7 @@ Driven by a passion for understanding and manipulating data, I pursued a Master�
 
 
 ### Investment Banking Management Headquarters Intern, Zhongshan Securities (Apr 2019 – Jun 2019)
-- Conducted valuation and financial modeling, analyzing growth rates, profitability, and competitive advantages, achieving a 95% accuracy rate in valuation premiums. Employed time series models to predict stock prices and used Power BI to present results, providing stakeholders with actionable insights.
+- Conducted valuation and financial modeling, analyzing growth rates, profitability, and competitive advantages, achieving a 90% accuracy rate in valuation premiums. Employed time series models to predict stock prices and used Power BI to present results, providing stakeholders with actionable insights.
 - Streamlined due diligence processes by 20%, conducting in-depth financial analysis and capital structure evaluations, and preparing detailed reports and presentations on private equity opportunities, leading to faster and more informed decision-making.
 
 ### Risk Management Department Intern, Agricultural Bank of China (Jul 2018 – Aug 2018)
@@ -51,16 +71,5 @@ Throughout my career, I've been recognized for my analytical skills and ability 
 
 - Developing data visualizations that reduced the time required for report review by 30%.
 - Streamlining data analysis processes, resulting in a 25% reduction in preparation time.
-- Earning a Master's degree in Data Science and Economics, with a focus on applying data-driven solutions to real-world problems.
-
-## Let's Connect
-
-I am always excited to connect with like-minded professionals and explore opportunities to collaborate. Whether you're looking for a skilled Data Scientist, a proficient Data Analyst, or just want to discuss the latest trends in data analysis, feel free to reach out!
-
-- **Location**: Vancouver, BC
-- **Contact**: [iris0614ubc@gmail.com](mailto:iris0614ubc@gmail.com)
-- **LinkedIn**: [linkedin.com/in/iris-luo](https://www.linkedin.com/in/iris-luo/)
-- **Portfolio**: [iris0614.github.io/IrisLuo](https://iris0614.github.io/IrisLuo)
-
-Thank you for visiting my portfolio. I look forward to connecting with you!
+- A strong foundation in uncovering insights and transforming complex datasets into actionable business intelligence.
 
