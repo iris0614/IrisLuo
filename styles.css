@@ -1,8 +1,21 @@
+h1.title {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
+}
+
+.container a img {
+  display: inline-block; /* Ensure the icons are treated as inline-block */
+  margin: 0 10px; /* Adjust the gap between icons (10px is an example, adjust as needed) */
+  vertical-align: middle; /* Aligns icons in the middle to avoid any baseline issues */
+  border: none; /* Removes any default border (if any) */
 }
 
 .container img {
@@ -18,3 +31,19 @@
 /* .icon-container {
   margin-top: 10px;
 }*/ 
+
+.center-link {
+  text-align: center;
+  /* margin-top: 20px;  Optional: adds space above the link */
+}
+
+.center-link a {
+  font-weight: bold; /* Optional: makes the link stand out */
+  text-decoration: none; /* Optional: remove underline */
+}
+
+.centered-text {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}

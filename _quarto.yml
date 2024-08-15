@@ -3,14 +3,14 @@ project:
 
 website:
   favicon: "img/favicon_io/favicon.ico"
-  title: "IrisLuo"
+  title: ""
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: HOME
       - about.qmd
       - href: projects.qmd
-        text: Projects
+        text: PROJECTS
 
 format:
   html:

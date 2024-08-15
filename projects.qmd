@@ -1,6 +1,11 @@
 ---
-title: "Projects"
+title: "PROJECTS"
 ---
+<div class="centered-text">
+  <p>Still in Progress....🏗</p>
+</div>
+
+
 ## 🦅Airfield Hazards: Bird Tracking at Airports
 - **Description**: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.
 - **Paper**: [Original Paper](airbird.pdf)

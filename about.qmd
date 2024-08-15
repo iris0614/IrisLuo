@@ -1,7 +1,9 @@
 ---
-title: "About"
+title: "ABOUT"
 ---
-[My Resume](resume.pdf)
+<div class="center-link">
+  [📃My Resume](resume.pdf)
+</div>
 
 ## What I Do
 
