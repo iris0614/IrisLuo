@@ -7,13 +7,7 @@ format:
 
 <div class="container">
   <img src="img/home.png" alt="Iris Luo" />
-  <p style="text-align: justify;">
-  Hi👋！I’m Iris Luo, a skilled Data Scientist with dual Master's degrees in Data Science and Economics, and over two years of experience in data analysis, data cleaning, data visualization, and data modeling.
-</p>
-</div>
-
-
-<div style="text-align: center; margin-top: 10px;">
+  <div style="text-align: center; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/iris-luo/" rel="nofollow noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="auto">
   </a>
@@ -24,6 +18,13 @@ format:
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="20" height="auto">
   </a>
 </div>
+  <p style="text-align: justify;">
+  Hi👋！I’m Iris Luo, a skilled Data Scientist with dual Master's degrees in Data Science and Economics, and over two years of experience in data analysis, data cleaning, data visualization, and data modeling.
+</p>
+</div>
+
+
+
 
 
 

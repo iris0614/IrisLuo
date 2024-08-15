@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: "img/favicon_io/favicon.ico"
   title: "IrisLuo"
   navbar:
     left:
