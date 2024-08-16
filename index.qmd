@@ -6,7 +6,7 @@ format:
 ---
 
 <div class="container">
-  <img src="img/home.jpg" alt="Iris Luo" />
+  <img src="img/home1.jpg" alt="Iris Luo" />
   <div style="text-align: center">
   <a href="https://www.linkedin.com/in/iris-luo/" rel="nofollow noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="auto">
