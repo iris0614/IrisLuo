@@ -38,6 +38,14 @@ I specialize in:
 *Wuhan, China*  
 *Sep 2016 – Jun 2020*
 
+## Capstone Project
+
+### Data Scientist, Illuminex AI (Apr 2024 – Jun 2024)
+- Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.
+- Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.
+- Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
+  
+
 ## Work Experience
 
 ### Data Analyst Intern, Beijing Academy of Social Sciences (Oct 2019 – Jan 2020)
@@ -57,14 +65,7 @@ I specialize in:
 
 ### Risk Management Department Intern, Agricultural Bank of China (Jul 2018 – Aug 2018)
 - Applied machine learning techniques to analyze 806 auto installment loans, 1,325 home mortgage loans, and 2,021 large consumer installment loans, enabling more accurate customer ratings and risk assessments for the bank.
-
-## Capstone Project
-
-### Data Scientist, Illuminex AI (Apr 2024 – Jun 2024)
-- Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.
-- Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.
-- Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
-
+- Collaborated with the risk management team to integrate machine learning insights into existing financial models, resulting in a 10% improvement in the accuracy of risk predictions and customer assessments. 
 
 
 ## Achievements and Skills
