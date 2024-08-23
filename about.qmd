@@ -1,6 +1,7 @@
 ---
 title: "ABOUT"
 ---
+
 <div class="center-link">
   [📃My Resume](resume.pdf)
 </div>
@@ -14,65 +15,57 @@ I specialize in:
 - **Machine Learning and AI Development**: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics.
 
 ## Education
-### Master of Data Science (GPA: 4.23/4.33)
-**University of British Columbia**  
-*Vancouver, BC*  
-*Sep 2023 – Jun 2024*  
-**[Relevant Course](https://ubc-mds.github.io/descriptions/):** Statistical Inference and Computation, Regression, Spatial and Temporal Models,  Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
 
+- **Master of Data Science (GPA: 4.23/4.33)**  
+  University of British Columbia (Vancouver, BC)  
+  *Sep 2023 – Jun 2024*  
+  **Relevant Courses:** Statistical Inference and Computation, Regression, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
 
-### Master of Science in Economics (GPA: 86.7/100)
-**Huazhong University of Science and Technology**  
-*Wuhan, China*  
-*Sep 2020 – Jun 2023*
+- **Master of Science in Economics (GPA: 86.7/100)**  
+  Huazhong University of Science and Technology (Wuhan, China)  
+  *Sep 2020 – Jun 2023*
 
+- **Public Economics (Exchange) (GPA: 3.7/4.0)**  
+  University of California Berkeley (California, United States)  
+  *Jul 2021 – Aug 2021*
 
-### Public Economics (Exchange) (GPA: 3.7/4.0)
-**University of California Berkeley**  
-*California, United States*  
-*Jul 2021 – Aug 2021*
-
-
-### Bachelor of Science in Economics (GPA: 88.63/100)
-**Central China Normal University**  
-*Wuhan, China*  
-*Sep 2016 – Jun 2020*
+- **Bachelor of Science in Economics (GPA: 88.63/100)**  
+  Central China Normal University (Wuhan, China)  
+  *Sep 2016 – Jun 2020*
 
 ## Capstone Project
 
-### Data Scientist, Illuminex AI (Apr 2024 – Jun 2024)
-- Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.
-- Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.
-- Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
-  
+### Data Scientist, Illuminex AI  
+  *Apr 2024 – Jun 2024*  
+  • Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.  
+  • Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.  
+  • Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
 
 ## Work Experience
 
-### Data Analyst Intern, Beijing Academy of Social Sciences (Oct 2019 – Jan 2020)
-- Optimized MySQL database queries, reducing page load times by 15% and improving data retrieval speed by 20%, resulting in a smoother user experience across the platform.
-- Conducted in-depth data analysis on over 20,000 records, uncovering critical insights. These findings directly contributed to enhancing educational programs. This led to a 12% improvement in student engagement metrics.
-- Developed and presented detailed reports and dashboards to senior leadership, highlighting KPIs and trends. These insights facilitated data-driven decisions that contributed to a 10% increase in operational efficiency and strategic alignment across departments.
+### Data Analyst Intern, Beijing Academy of Social Sciences  
+*Oct 2019 – Jan 2020*  
+• Optimized MySQL database queries, reducing page load times by 15% and increasing data retrieval speed by 20%, enhancing user experience.  
+• Analyzed over 20,000 records to uncover critical insights, leading to a 12% improvement in student engagement metrics and directly influencing educational program enhancements.  
+• Developed and presented detailed reports and dashboards to senior leadership, highlighting KPIs and trends, which facilitated data-driven decisions and increased operational efficiency by 10%.
 
+### Audit and Assurance Department Intern, Deloitte  
+*Jul 2019 – Aug 2019*  
+• Performed financial analysis on major corporations, including Guangshen Railway Co., increasing the accuracy of financial assessments by 20% through data analysis of over 5,000 data points using Python.  
+• Conducted data audits and drafted 15+ financial reports using Power BI, creating clear data visualizations that improved report clarity and reduced review time by 30% for senior stakeholders.
 
-### Audit and Assurance Department Intern, Deloitte (Jul 2019 – Aug 2019)
-- Performed financial analysis of Guangshen Railway Co. and Huajun Management Company for their yearly reports published to the public and the government. Utilized Python to analyze over 5,000 data points, identifying key metrics and potential risks, increasing the accuracy of financial assessments by 20%.
-- Conducted a comprehensive data audit and drafted 15+ financial reports using Power BI, creating clear and accessible data visualizations. These visualizations improved report clarity and reduced the time required for senior stakeholders, including directors, executive managers, and company representatives, to review and understand the financial data by 30%.
+### Investment Banking Management Headquarters Intern, Zhongshan Securities  
+*Apr 2019 – Jun 2019*  
+• Conducted valuation and financial modeling, achieving a 90% accuracy rate in valuation premiums by analyzing growth rates, profitability, and competitive advantages.  
+• Streamlined due diligence processes by 20%, performing in-depth financial analysis and capital structure evaluations, resulting in faster and more informed decision-making.
 
-
-### Investment Banking Management Headquarters Intern, Zhongshan Securities (Apr 2019 – Jun 2019)
-- Conducted valuation and financial modeling, analyzing growth rates, profitability, and competitive advantages, achieving a 90% accuracy rate in valuation premiums. Employed time series models to predict stock prices and used Power BI to present results, providing stakeholders with actionable insights.
-- Streamlined due diligence processes by 20%, conducting in-depth financial analysis and capital structure evaluations, and preparing detailed reports and presentations on private equity opportunities, leading to faster and more informed decision-making.
-
-### Risk Management Department Intern, Agricultural Bank of China (Jul 2018 – Aug 2018)
-- Applied machine learning techniques to analyze 806 auto installment loans, 1,325 home mortgage loans, and 2,021 large consumer installment loans, enabling more accurate customer ratings and risk assessments for the bank.
-- Collaborated with the risk management team to integrate machine learning insights into existing financial models, resulting in a 10% improvement in the accuracy of risk predictions and customer assessments. 
-
+### Risk Management Department Intern, Agricultural Bank of China  
+*Jul 2018 – Aug 2018*  
+• Applied machine learning techniques to analyze over 4,000 loans, improving customer ratings and risk assessments accuracy by 10%.  
+• Collaborated with the risk management team to integrate machine learning insights into financial models, enhancing the accuracy of risk predictions.
 
 ## Achievements and Skills
 
-Throughout my career, I've been recognized for my analytical skills and ability to turn data into actionable insights. Some highlights include:
-
-- Developing data visualizations that reduced the time required for report review by 30%.
-- Streamlining data analysis processes, resulting in a 25% reduction in preparation time.
-- A strong foundation in uncovering insights and transforming complex datasets into actionable business intelligence.
-
+• Data Visualization: Created visualizations that reduced report review time by 30%.  
+• Efficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25%.  
+• Insight Generation: Specialized in transforming complex datasets into actionable business intelligence.
