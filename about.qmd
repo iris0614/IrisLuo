@@ -19,7 +19,7 @@ I specialize in:
 - **Master of Data Science (GPA: 4.23/4.33)**  
   University of British Columbia (Vancouver, BC)  
   *Sep 2023 – Jun 2024*  
-  **Relevant Courses:** Statistical Inference and Computation, Regression, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
+  **[Relevant Course](https://ubc-mds.github.io/descriptions/):** Statistical Inference and Computation, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
 
 - **Master of Science in Economics (GPA: 86.7/100)**  
   Huazhong University of Science and Technology (Wuhan, China)  
