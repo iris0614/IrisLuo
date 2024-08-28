@@ -64,6 +64,18 @@ I specialize in:
 • Applied machine learning techniques to analyze over 4,000 loans, improving customer ratings and risk assessments accuracy by 10%.  
 • Collaborated with the risk management team to integrate machine learning insights into financial models, enhancing the accuracy of risk predictions.
 
+## Volunteer
+### Rural Education Empowerment Plan
+*Mar 2017 - Oct 2018*
+
+- Contributed to the design and implementation of a 1+1+1 educational model that paired 502 rural teachers with teacher education students for mutual learning, supporting both online research and practical training sessions.
+- Supported the development of a 1+X team management model aimed at systematic volunteer management, which expanded the reach to over 600 volunteers and enhanced educational support for 20 primary schools.
+- Assisted in establishing partnerships and negotiating with stakeholders such as non-profits and tech companies to secure crucial funding of $29,000, contributing to the project’s sustainability.
+- Aided in the development of a comprehensive training program for rural teachers, incorporating ICT tools to facilitate collaborative lesson planning, mixed-mode teaching, and active learning strategies such as flipped classrooms, contributing to an internet resource library for rural education.
+- 🏆 Recognized as the Fourth 'Internet+' College Students Innovation and Entrepreneurship Competition Hubei Province Gold Award Project.
+- 🏆 Honored with the 2018 "China College Students' Entrepreneurship Competition Innovation and Entrepreneurship Cup National Competition" Silver Award.
+
+
 ## Achievements and Skills
 
 • Data Visualization: Created visualizations that reduced report review time by 30%.  
