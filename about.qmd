@@ -78,6 +78,6 @@ I specialize in:
 
 ## 🌟 Achievements and Skills
 
-• Data Visualization: Created visualizations that reduced report review time by 30%.  
-• Efficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25%.  
-• Insight Generation: Specialized in transforming complex datasets into actionable business intelligence.
+• **Data Visualization**: Created visualizations that reduced report review time by 30%.  
+• **Efficiency Improvements**: Streamlined data analysis processes, reducing preparation time by 25%.  
+• **Insight Generation**: Specialized in transforming complex datasets into actionable business intelligence.
