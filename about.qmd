@@ -6,7 +6,7 @@ title: "ABOUT"
   [📃My Resume](resume.pdf)
 </div>
 
-## What I Do
+## 📊 What I Do
 
 I specialize in:
 
@@ -14,7 +14,7 @@ I specialize in:
 - **Data Analysis and Visualization**: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.
 - **Machine Learning and AI Development**: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics.
 
-## Education
+## 🎓 Education
 
 - **Master of Data Science (GPA: 4.23/4.33)**  
   University of British Columbia (Vancouver, BC)  
@@ -33,7 +33,7 @@ I specialize in:
   Central China Normal University (Wuhan, China)  
   *Sep 2016 – Jun 2020*
 
-## Capstone Project
+## 🛠️ Capstone Project
 
 ### Data Scientist, Illuminex AI  
   *Apr 2024 – Jun 2024*  
@@ -41,7 +41,7 @@ I specialize in:
   • Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.  
   • Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
 
-## Work Experience
+## 💼 Work Experience
 
 ### Data Analyst Intern, Beijing Academy of Social Sciences  
 *Oct 2019 – Jan 2020*  
@@ -64,7 +64,7 @@ I specialize in:
 • Applied machine learning techniques to analyze over 4,000 loans, improving customer ratings and risk assessments accuracy by 10%.  
 • Collaborated with the risk management team to integrate machine learning insights into financial models, enhancing the accuracy of risk predictions.
 
-## Volunteer
+## ❤️ Volunteer
 ### Rural Education Empowerment Plan
 *Mar 2017 - Oct 2018*
 
@@ -72,11 +72,11 @@ I specialize in:
 - Supported the development of a 1+X team management model aimed at systematic volunteer management, which expanded the reach to over 600 volunteers and enhanced educational support for 20 primary schools.
 - Assisted in establishing partnerships and negotiating with stakeholders such as non-profits and tech companies to secure crucial funding of $29,000, contributing to the project’s sustainability.
 - Aided in the development of a comprehensive training program for rural teachers, incorporating ICT tools to facilitate collaborative lesson planning, mixed-mode teaching, and active learning strategies such as flipped classrooms, contributing to an internet resource library for rural education.
-- 🏆 Recognized as the Fourth 'Internet+' College Students Innovation and Entrepreneurship Competition Hubei Province Gold Award Project.
-- 🏆 Honored with the 2018 "China College Students' Entrepreneurship Competition Innovation and Entrepreneurship Cup National Competition" Silver Award.
+- 🏆 Recognized as the Fourth 'Internet+' University Students Innovation and Entrepreneurship Competition Hubei Province 🥇Gold Award Project.
+- 🏆 Honored with the 2018 "China University Students' Entrepreneurship Competition Innovation and Entrepreneurship Cup National Competition" 🥈Silver Award.
 
 
-## Achievements and Skills
+## 🌟 Achievements and Skills
 
 • Data Visualization: Created visualizations that reduced report review time by 30%.  
 • Efficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25%.  
