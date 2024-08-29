@@ -17,20 +17,20 @@ I specialize in:
 ## 🎓 Education
 
 - **Master of Data Science (GPA: 4.23/4.33)**  
-  University of British Columbia (Vancouver, BC)  
+  <img src="img/ubc_logo.png" width='26' height='30'>  University of British Columbia (Vancouver, BC)  
   *Sep 2023 – Jun 2024*  
   **[Relevant Course](https://ubc-mds.github.io/descriptions/):** Statistical Inference and Computation, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
 
 - **Master of Science in Economics (GPA: 86.7/100)**  
-  Huazhong University of Science and Technology (Wuhan, China)  
+  <img src="img/HuazhongUniversityofScienceTechnology.png" width='30' height='30'>  Huazhong University of Science and Technology (Wuhan, China)  
   *Sep 2020 – Jun 2023*
 
 - **Public Economics (Exchange) (GPA: 3.7/4.0)**  
-  University of California Berkeley (California, United States)  
+  <img src="img/UCBerkeley.png" width='32' height='32'>  University of California Berkeley (California, United States)  
   *Jul 2021 – Aug 2021*
 
 - **Bachelor of Science in Economics (GPA: 88.63/100)**  
-  Central China Normal University (Wuhan, China)  
+  <img src="img/CCNU.png" width='33' height='33'>  Central China Normal University (Wuhan, China)  
   *Sep 2016 – Jun 2020*
 
 ## 🛠️ Capstone Project
@@ -72,8 +72,9 @@ I specialize in:
 - Supported the development of a 1+X team management model aimed at systematic volunteer management, which expanded the reach to over 600 volunteers and enhanced educational support for 20 primary schools.
 - Assisted in establishing partnerships and negotiating with stakeholders such as non-profits and tech companies to secure crucial funding of $29,000, contributing to the project’s sustainability.
 - Aided in the development of a comprehensive training program for rural teachers, incorporating ICT tools to facilitate collaborative lesson planning, mixed-mode teaching, and active learning strategies such as flipped classrooms, contributing to an internet resource library for rural education.
-- 🏆 Recognized as the Fourth 'Internet+' University Students Innovation and Entrepreneurship Competition Hubei Province 🥇Gold Award Project.
-- 🏆 Honored with the 2018 "China University Students' Entrepreneurship Competition Innovation and Entrepreneurship Cup National Competition" 🥈Silver Award.
+- 🏆 Recognized with the 🥇Gold Award in the Fourth 'Internet+' University Students Innovation and Entrepreneurship Competition, Hubei Province.
+- 🏆 Honored with the 🥇Gold Award in Hubei Province and the 🥈Silver Award in the 2018 "China University Students' Entrepreneurship Competition Innovation and Entrepreneurship Cup" National Competition.
+- 🏆 Awarded the 🥇Gold Award in Hubei Province and the 🥈Silver Award in the 2018 China Youth Volunteer Service Project Competition, Nationwide.
 
 
 ## 🌟 Achievements and Skills
