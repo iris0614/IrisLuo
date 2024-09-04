@@ -21,13 +21,14 @@ I specialize in:
   *Sep 2023 – Jun 2024*  
   **[Relevant Course](https://ubc-mds.github.io/descriptions/):** Statistical Inference and Computation, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing
 
+- **Public Economics (Exchange Program) (GPA: 3.7/4.0)**  
+  <img src="img/UCBerkeley.png" width='32' height='32'>  University of California Berkeley (California, United States)  
+  *Jul 2021 – Aug 2021*
+
 - **Master of Science in Economics (GPA: 86.7/100)**  
   <img src="img/HuazhongUniversityofScienceTechnology.png" width='30' height='30'>  Huazhong University of Science and Technology (Wuhan, China)  
   *Sep 2020 – Jun 2023*
-
-- **Public Economics (Exchange) (GPA: 3.7/4.0)**  
-  <img src="img/UCBerkeley.png" width='32' height='32'>  University of California Berkeley (California, United States)  
-  *Jul 2021 – Aug 2021*
+  
 
 - **Bachelor of Science in Economics (GPA: 88.63/100)**  
   <img src="img/CCNU.png" width='33' height='33'>  Central China Normal University (Wuhan, China)  
