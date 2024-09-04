@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ABOUT",
+    "section": "",
+    "text": "📃My Resume"
+  },
+  {
+    "objectID": "about.html#what-i-do",
+    "href": "about.html#what-i-do",
+    "title": "ABOUT",
+    "section": "📊 What I Do",
+    "text": "📊 What I Do\nI specialize in:\n\nData Cleaning and Transformation: Ensuring data integrity and preparing datasets for sophisticated analysis by employing best practices in data wrangling.\nData Analysis and Visualization: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.\nMachine Learning and AI Development: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "ABOUT",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\nMaster of Data Science (GPA: 4.23/4.33)\n University of British Columbia (Vancouver, BC)\nSep 2023 – Jun 2024\nRelevant Course: Statistical Inference and Computation, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing\nPublic Economics (Exchange Program) (GPA: 3.7/4.0)\n University of California Berkeley (California, United States)\nJul 2021 – Aug 2021\nMaster of Science in Economics (GPA: 86.7/100)\n Huazhong University of Science and Technology (Wuhan, China)\nSep 2020 – Jun 2023\nBachelor of Science in Economics (GPA: 88.63/100)\n Central China Normal University (Wuhan, China)\nSep 2016 – Jun 2020"
+  },
+  {
+    "objectID": "about.html#capstone-project",
+    "href": "about.html#capstone-project",
+    "title": "ABOUT",
+    "section": "🛠️ Capstone Project",
+    "text": "🛠️ Capstone Project\n\nIlluminex AI, Data Scientist\nApr 2024 – Jun 2024\n• Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.\n• Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.\n• Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights."
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "ABOUT",
+    "section": "💼 Work Experience",
+    "text": "💼 Work Experience\n\nBeijing Academy of Social Sciences\nData Analyst Intern\nOct 2019 – Jan 2020\n• Optimized MySQL database queries, reducing page load times by 15% and increasing data retrieval speed by 20%, enhancing user experience.\n• Analyzed over 20,000 records to uncover critical insights, leading to a 12% improvement in student engagement metrics and directly influencing educational program enhancements.\n• Developed and presented detailed reports and dashboards to senior leadership, highlighting KPIs and trends, which facilitated data-driven decisions and increased operational efficiency by 10%.\n\n\nDeloitte\nAudit and Assurance Department Intern\nJul 2019 – Aug 2019\n• Performed financial analysis on major corporations, including Guangshen Railway Co., increasing the accuracy of financial assessments by 20% through data analysis of over 5,000 data points using Python.\n• Conducted data audits and drafted 15+ financial reports using Power BI, creating clear data visualizations that improved report clarity and reduced review time by 30% for senior stakeholders.\n\n\nZhongshan Securities\nInvestment Banking Management Headquarters Intern\nApr 2019 – Jun 2019\n• Conducted valuation and financial modeling, achieving a 90% accuracy rate in valuation premiums by analyzing growth rates, profitability, and competitive advantages.\n• Streamlined due diligence processes by 20%, performing in-depth financial analysis and capital structure evaluations, resulting in faster and more informed decision-making.\n\n\nAgricultural Bank of China\nRisk Management Department Intern\nJul 2018 – Aug 2018\n• Applied machine learning techniques to analyze over 4,000 loans, improving customer ratings and risk assessments accuracy by 10%.\n• Collaborated with the risk management team to integrate machine learning insights into financial models, enhancing the accuracy of risk predictions."
+  },
+  {
+    "objectID": "about.html#volunteer",
+    "href": "about.html#volunteer",
+    "title": "ABOUT",
+    "section": "❤️ Volunteer",
+    "text": "❤️ Volunteer\n\nRural Education Empowerment Plan\nMar 2017 - Oct 2018\n\nContributed to the design and implementation of a 1+1+1 educational model that paired 502 rural teachers with teacher education students for mutual learning, supporting both online research and practical training sessions.\nSupported the development of a 1+X team management model aimed at systematic volunteer management, which expanded the reach to over 600 volunteers and enhanced educational support for 20 primary schools.\nAssisted in establishing partnerships and negotiating with stakeholders such as non-profits and tech companies to secure crucial funding of $29,000, contributing to the project’s sustainability.\nAided in the development of a comprehensive training program for rural teachers, incorporating ICT tools to facilitate collaborative lesson planning, mixed-mode teaching, and active learning strategies such as flipped classrooms, contributing to an internet resource library for rural education.\n🏆 Recognized with the 🥇Gold Award in the Fourth ‘Internet+’ University Students Innovation and Entrepreneurship Competition, Hubei Province.\n🏆 Honored with the 🥇Gold Award in Hubei Province and the 🥈Silver Award in the 2018 “China University Students’ Entrepreneurship Competition Innovation and Entrepreneurship Cup” National Competition.\n🏆 Awarded the 🥇Gold Award in Hubei Province and the 🥈Silver Award in the 2018 China Youth Volunteer Service Project Competition, Nationwide."
+  },
+  {
+    "objectID": "about.html#achievements-and-skills",
+    "href": "about.html#achievements-and-skills",
+    "title": "ABOUT",
+    "section": "🌟 Achievements and Skills",
+    "text": "🌟 Achievements and Skills\n• Data Visualization: Created visualizations that reduced report review time by 30%.\n• Efficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25%.\n• Insight Generation: Specialized in transforming complex datasets into actionable business intelligence."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "PROJECTS",
