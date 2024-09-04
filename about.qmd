@@ -38,7 +38,7 @@ I specialize in:
 
 ### Illuminex AI, Data Scientist   
   *Apr 2024 – Jun 2024*  
-  • Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% AP50.  
+  • Developed an object detection pipeline using Faster R-CNN, YOLOv8, and RetinaNet, achieving a 60% mAP for bird strike mitigation at Chengdu Shuangliu Airport, surpassing the previous best of 49.5% mAP.  
   • Pioneered synthetic data augmentation with airplane images, enhancing model realism and boosting predictive accuracy in complex airport environments.  
   • Managed large-scale datasets on AWS, optimizing models for real-time, high-speed processing, and supporting robust validations. Awarded “Best Talk” in the Master of Data Science program for effectively communicating these complex data insights.
 
