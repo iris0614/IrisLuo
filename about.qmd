@@ -47,7 +47,7 @@ I specialize in:
 ### Beijing Academy of Social Sciences
 *Data Analyst Intern*
 
-*Oct 2019 – Jan 2020*  
+*Sep 2019 – Feb 2020*  
 • Optimized MySQL database queries, reducing page load times by 15% and increasing data retrieval speed by 20%, enhancing user experience.  
 • Analyzed over 20,000 records to uncover critical insights, leading to a 12% improvement in student engagement metrics and directly influencing educational program enhancements.  
 • Developed and presented detailed reports and dashboards to senior leadership, highlighting KPIs and trends, which facilitated data-driven decisions and increased operational efficiency by 10%.
