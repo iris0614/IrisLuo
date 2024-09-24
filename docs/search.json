@@ -60,7 +60,7 @@
     "href": "projects.html#airfield-hazards-bird-tracking-at-airports",
     "title": "PROJECTS",
     "section": "🦅 Airfield Hazards: Bird Tracking at Airports",
-    "text": "🦅 Airfield Hazards: Bird Tracking at Airports\n\nDescription: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.\nPaper: Original Paper\nTechnologies (Libraries) Used: Python (Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest), Makefile, AWS\nModels Tried: RetinaNet, YOLOv8, FasterR-CNN\nProject Pipeline\n\n\n\nInteraction between the Scripts"
+    "text": "🦅 Airfield Hazards: Bird Tracking at Airports\n\nDescription: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.\nReference Paper: AirBirds: A Large-scale Challenging Dataset for Bird Strike Prevention in Real-world Airports\nTechnologies (Libraries) Used: Python (Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest), Makefile, AWS\nModels Tried: RetinaNet, YOLOv8, FasterR-CNN\nProject Report: Best Talk in UBC MDS\nProject Pipeline\n\n\n\nInteraction between the Scripts"
   },
   {
     "objectID": "projects.html#churn-insights",
@@ -88,7 +88,7 @@
     "href": "projects.html#pyxplor",
     "title": "PROJECTS",
     "section": " Pyxplor",
-    "text": "Pyxplor\n\nDescription: A comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies (Libraries) Used: Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter\nGitHub: GitHub Repository\nLink: Docs"
+    "text": "Pyxplor\n\nDescription: A comprehensive Python package designed to automate and streamline the Exploratory Data Analysis (EDA) process. Tailored for various data types including numeric, categorical, binary, and time series data, pyxplor aims to enhance data interpretation through a suite of specialized plotting functions. This package seeks to reduce the complexity and time invested in initial data analysis, making it an essential tool for data scientists and analysts at all levels.\nTechnologies (Libraries) Used: Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter\nGitHub: GitHub Repository\nTutorial: Docs"
   },
   {
     "objectID": "index.html",
