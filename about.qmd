@@ -88,7 +88,7 @@ I specialize in:
 
 ## 🌟 Achievements and Skills
 
-• **Data Visualization**: Created visualizations that reduced report review time by 30%, leveraging tools like Tableau, Power BI, and Python libraries.
-• **Generative AI Integration**: Designed and implemented generative AI solutions, such as natural language to SQL translation and AI-driven data visualizations, enhancing decision-making efficiency.
-• **Efficiency Improvements**: Streamlined data analysis processes, reducing preparation time by 25% through optimized workflows and automation.
-• **Insight Generation**: Specialized in transforming complex datasets into actionable business intelligence, driving informed strategies and decision-making.
+- **Data Visualization**: Created visualizations that reduced report review time by 30%, leveraging tools like Tableau, Power BI, and Python libraries.
+- **Generative AI Integration**: Designed and implemented generative AI solutions, such as natural language to SQL translation and AI-driven data visualizations, enhancing decision-making efficiency.
+- **Efficiency Improvements**: Streamlined data analysis processes, reducing preparation time by 25% through optimized workflows and automation.
+- **Insight Generation**: Specialized in transforming complex datasets into actionable business intelligence, driving informed strategies and decision-making.
