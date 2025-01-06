@@ -5,6 +5,12 @@ title: "PROJECTS"
   <p>Still in Progress....🏗</p>
 </div>
 
+## <img src="img/sql.png" width='30' height='30'> SQL Agent Application
+- **Description**: An interactive SQL query agent powered by generative AI, designed to bridge the gap between natural language and structured database queries. This application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results. The system also includes a dynamic plotting agent for generating insightful visualizations based on user instructions.
+- **Technologies (Libraries) Used**: Python (Streamlit, Pandas, Matplotlib, Seaborn), OpenAI API, SQL (PostgreSQL, SQLite)
+- **Generative AI Integration**: Leveraged OpenAI's language models for translating natural language queries into SQL and generating data visualizations dynamically.
+- **GitHub**: [GitHub Repository](https://github.com/iris0614/sql-agent1022)
+
 
 ## 🦅 Airfield Hazards: Bird Tracking at Airports
 - **Description**: Developed a robust, cost-effective object detection pipeline for real-time bird identification at airports, using models like RetinaNet and YOLOv8, with advanced preprocessing techniques to enhance performance and safety.

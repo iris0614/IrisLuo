@@ -11,14 +11,14 @@
     "href": "about.html#what-i-do",
     "title": "ABOUT",
     "section": "📊 What I Do",
-    "text": "📊 What I Do\nI specialize in:\n\nData Cleaning and Transformation: Ensuring data integrity and preparing datasets for sophisticated analysis by employing best practices in data wrangling.\nData Analysis and Visualization: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.\nMachine Learning and AI Development: Applying machine learning models to solve real-world problems, particularly in areas like natural language processing and predictive analytics."
+    "text": "📊 What I Do\nI specialize in:\n\nData Cleaning and Transformation: Ensuring data integrity and preparing datasets for sophisticated analysis by employing best practices in data wrangling.\nData Analysis and Visualization: Leveraging tools like Power BI, Tableau, and Python to turn complex data into clear, actionable insights, improving decision-making processes.\nMachine Learning, AI, and Generative AI Development: Applying machine learning models and generative AI technologies, such as language models and transformers, to solve real-world problems in areas like natural language processing, SQL automation, and predictive analytics."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "ABOUT",
     "section": "🎓 Education",
-    "text": "🎓 Education\n\nMaster of Data Science (GPA: 4.23/4.33)\n University of British Columbia (Vancouver, BC)\nSep 2023 – Jun 2024\nRelevant Course: Statistical Inference and Computation, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing\nPublic Economics (Exchange Program) (GPA: 3.7/4.0)\n University of California Berkeley (California, United States)\nJul 2021 – Aug 2021\nMaster of Science in Economics (GPA: 86.7/100)\n Huazhong University of Science and Technology (Wuhan, China)\nSep 2020 – Jun 2023\nBachelor of Science in Economics (GPA: 88.63/100)\n Central China Normal University (Wuhan, China)\nSep 2016 – Jun 2020"
+    "text": "🎓 Education\n\nMaster of Data Science (GPA: 4.23/4.33)\n University of British Columbia (Vancouver, BC)\nSep 2023 – Nov 2024\nRelevant Course: Statistical Inference and Computation, Spatial and Temporal Models, Supervised Learning, Unsupervised Learning, Data Visualization, Algorithms and Data Structures, Collaborative Software Development, Databases and Data Retrieval, Web and Cloud Computing\nPublic Economics (Exchange Program) (GPA: 3.7/4.0)\n University of California Berkeley (California, United States)\nJul 2021 – Aug 2021\nMaster of Science in Economics (GPA: 86.7/100)\n Huazhong University of Science and Technology (Wuhan, China)\nSep 2020 – Jun 2023\nBachelor of Science in Economics (GPA: 88.63/100)\n Central China Normal University (Wuhan, China)\nSep 2016 – Jun 2020"
   },
   {
     "objectID": "about.html#capstone-project",
@@ -46,7 +46,7 @@
     "href": "about.html#achievements-and-skills",
     "title": "ABOUT",
     "section": "🌟 Achievements and Skills",
-    "text": "🌟 Achievements and Skills\n• Data Visualization: Created visualizations that reduced report review time by 30%.\n• Efficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25%.\n• Insight Generation: Specialized in transforming complex datasets into actionable business intelligence."
+    "text": "🌟 Achievements and Skills\n• Data Visualization: Created visualizations that reduced report review time by 30%, leveraging tools like Tableau, Power BI, and Python libraries. • Generative AI Integration: Designed and implemented generative AI solutions, such as natural language to SQL translation and AI-driven data visualizations, enhancing decision-making efficiency. • Efficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25% through optimized workflows and automation. • Insight Generation: Specialized in transforming complex datasets into actionable business intelligence, driving informed strategies and decision-making."
   },
   {
     "objectID": "projects.html",
@@ -54,6 +54,13 @@
     "title": "PROJECTS",
     "section": "",
     "text": "Still in Progress….🏗"
+  },
+  {
+    "objectID": "projects.html#sql-agent-application",
+    "href": "projects.html#sql-agent-application",
+    "title": "PROJECTS",
+    "section": " SQL Agent Application",
+    "text": "SQL Agent Application\n\nDescription: An interactive SQL query agent powered by generative AI, designed to bridge the gap between natural language and structured database queries. This application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results. The system also includes a dynamic plotting agent for generating insightful visualizations based on user instructions.\nTechnologies (Libraries) Used: Python (Streamlit, Pandas, Matplotlib, Seaborn), OpenAI API, SQL (PostgreSQL, SQLite)\nGenerative AI Integration: Leveraged OpenAI’s language models for translating natural language queries into SQL and generating data visualizations dynamically.\nGitHub: GitHub Repository"
   },
   {
     "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports",
@@ -95,6 +102,6 @@
     "href": "index.html",
     "title": "Iris LUO",
     "section": "",
-    "text": "Hi👋！I’m Iris Luo, a skilled Data Scientist with dual Master’s degrees in Data Science and Economics, and over two years of experience in data cleaning, data visualization, data modeling, and data analysis."
+    "text": "Hi 👋! I’m Iris Luo, a skilled Data Scientist with dual Master’s degrees in Data Science and Economics, and over two years of experience in data cleaning, data visualization, data modeling, data analysis, and generative AI applications. I specialize in leveraging advanced AI models to streamline processes, generate insights, and bridge the gap between natural language and data-driven solutions."
   }
 ]
