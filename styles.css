@@ -1,53 +1,182 @@
+/* General Styles */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #f5f5f7;
+  color: #1d1d1f;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
 h1.title {
   text-align: center;
   margin: 0 auto;
   width: 100%;
+  font-size: 2.5em;
+  font-weight: 600;
+  color: #1d1d1f;
+  padding-top: 20px; /* Optional: Adds some space above the title */
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: #1d1d1f;
+  font-weight: 600;
+}
+
+a {
+  color: #0070c9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Container Styles */
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-}
-
-.container a img {
-  display: inline-block; /* Ensure the icons are treated as inline-block */
-  margin: 0 10px; /* Adjust the gap between icons (10px is an example, adjust as needed) */
-  vertical-align: middle; /* Aligns icons in the middle to avoid any baseline issues */
-  border: none; /* Removes any default border (if any) */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 40px;
 }
 
 .container img {
-  width: 200px; /* This is for the main home.png image */
-  /* margin-bottom: 10px; Space between the image and the icons */
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
 }
 
 .container a img {
-  width: 20px; /* Set the width of the icons */
-  height: auto; /* Maintain aspect ratio */
+  width: 30px;
+  height: auto;
+  margin: 0 10px;
+  transition: opacity 0.3s ease;
 }
 
-/* .icon-container {
-  margin-top: 10px;
-}*/ 
+.container a img:hover {
+  opacity: 0.7;
+}
 
+/* Center Link Styles */
 .center-link {
   text-align: center;
-  margin-top: 20px;  /* Optional: adds space above the link */
+  margin-top: 20px;
 }
 
 .center-link a {
-  font-weight: bold; /* Optional: makes the link stand out */
-  text-decoration: none; /* Optional: remove underline */
+  font-weight: 600;
+  color: #0070c9;
+  text-decoration: none;
 }
 
+.center-link a:hover {
+  text-decoration: underline;
+}
+
+/* Centered Text Styles */
 .centered-text {
   text-align: center;
   width: 100%;
   margin: 0 auto;
+  padding: 20px;
+  font-size: 1.1em;
+  color: #6e6e73;
 }
 
-a {
+/* Section Styles */
+section {
+  margin: 40px 0;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  color: #1d1d1f;
+}
+
+section p {
+  font-size: 1em;
+  color: #6e6e73;
+  line-height: 1.6;
+}
+
+section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+section ul li {
+  margin-bottom: 10px;
+  font-size: 1em;
+  color: #6e6e73;
+}
+
+/* Project Styles */
+.project {
+  margin-bottom: 40px;
+}
+
+.project h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #1d1d1f;
+}
+
+.project p {
+  font-size: 1em;
+  color: #6e6e73;
+  line-height: 1.6;
+}
+
+.project img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+/* Button Styles */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1em;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #0070c9;
+  border-radius: 8px;
+  text-align: center;
   text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #005bb5;
+}
+
+/* Footer Styles */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f5f5f7;
+  color: #6e6e73;
+  margin-top: 40px;
+}
+
+footer a {
+  color: #0070c9;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }

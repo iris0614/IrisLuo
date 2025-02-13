@@ -9,7 +9,7 @@ title: "PROJECTS"
 - **Description**: Developed an AI-powered SQL query agent that translates natural language into SQL, enabling seamless database interactions for non-technical users. The application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results, simplifying data analysis and decision-making.
 - **Technologies (Libraries) Used**: Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)
 - **Generative AI Integration**: Integrated OpenAI’s language models to dynamically interpret natural language queries and generate SQL, enhancing accessibility and usability.
-- **App**: [SQL Genius](https://sqlgenius20250212.streamlit.app/)
+- **Live App**: [SQL Genius](https://sqlgenius20250212.streamlit.app/)
 - **GitHub**: [GitHub Repository](https://github.com/iris0614/SQLGenius)
 
 

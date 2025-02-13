@@ -60,7 +60,7 @@
     "href": "projects.html#sql-genius",
     "title": "PROJECTS",
     "section": " SQL Genius",
-    "text": "SQL Genius\n\nDescription: Developed an AI-powered SQL query agent that translates natural language into SQL, enabling seamless database interactions for non-technical users. The application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results, simplifying data analysis and decision-making.\nTechnologies (Libraries) Used: Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)\nGenerative AI Integration: Integrated OpenAI’s language models to dynamically interpret natural language queries and generate SQL, enhancing accessibility and usability.\nApp: SQL Genius\nGitHub: GitHub Repository"
+    "text": "SQL Genius\n\nDescription: Developed an AI-powered SQL query agent that translates natural language into SQL, enabling seamless database interactions for non-technical users. The application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results, simplifying data analysis and decision-making.\nTechnologies (Libraries) Used: Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)\nGenerative AI Integration: Integrated OpenAI’s language models to dynamically interpret natural language queries and generate SQL, enhancing accessibility and usability.\nLive App: SQL Genius\nGitHub: GitHub Repository"
   },
   {
     "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports",
