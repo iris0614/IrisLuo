@@ -46,7 +46,7 @@
     "href": "about.html#achievements-and-skills",
     "title": "ABOUT",
     "section": "🌟 Achievements and Skills",
-    "text": "🌟 Achievements and Skills\n\nData Visualization: Created visualizations that reduced report review time by 30%, leveraging tools like Tableau, Power BI, and Python libraries.\nGenerative AI Integration: Designed and implemented generative AI solutions, such as natural language to SQL translation and AI-driven data visualizations, enhancing decision-making efficiency.\nEfficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25% through optimized workflows and automation.\nInsight Generation: Specialized in transforming complex datasets into actionable business intelligence, driving informed strategies and decision-making."
+    "text": "🌟 Achievements and Skills\n\nData Visualization: Created visualizations that reduced report review time by 30%, leveraging tools like Tableau, Power BI, and Python libraries.\nGenerative AI Integration: Designed and implemented generative AI solutions, including natural language-to-SQL translation, to enhance decision-making efficiency.\nEfficiency Improvements: Streamlined data analysis processes, reducing preparation time by 25% through optimized workflows and automation.\nInsight Generation: Specialized in transforming complex datasets into actionable business intelligence, driving informed strategies and decision-making."
   },
   {
     "objectID": "projects.html",
@@ -56,11 +56,11 @@
     "text": "Still in Progress….🏗"
   },
   {
-    "objectID": "projects.html#sql-agent-application",
-    "href": "projects.html#sql-agent-application",
+    "objectID": "projects.html#sql-genius",
+    "href": "projects.html#sql-genius",
     "title": "PROJECTS",
-    "section": " SQL Agent Application",
-    "text": "SQL Agent Application\n\nDescription: An interactive SQL query agent powered by generative AI, designed to bridge the gap between natural language and structured database queries. This application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results. The system also includes a dynamic plotting agent for generating insightful visualizations based on user instructions.\nTechnologies (Libraries) Used: Python (Streamlit, Pandas, Matplotlib, Seaborn), OpenAI API, SQL (PostgreSQL, SQLite)\nGenerative AI Integration: Leveraged OpenAI’s language models for translating natural language queries into SQL and generating data visualizations dynamically.\nGitHub: GitHub Repository"
+    "section": " SQL Genius",
+    "text": "SQL Genius\n\nDescription: Developed an AI-powered SQL query agent that translates natural language into SQL, enabling seamless database interactions for non-technical users. The application allows users to upload SQLite databases, ask questions in plain language, and receive accurate SQL queries and results, simplifying data analysis and decision-making.\nTechnologies (Libraries) Used: Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)\nGenerative AI Integration: Integrated OpenAI’s language models to dynamically interpret natural language queries and generate SQL, enhancing accessibility and usability.\nApp: SQL Genius\nGitHub: GitHub Repository"
   },
   {
     "objectID": "projects.html#airfield-hazards-bird-tracking-at-airports",
