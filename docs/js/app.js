@@ -167,7 +167,7 @@
       about_vol_a1:
         "4th Internet+ · Hubei Provincial Gold",
       about_vol_a2:
-        "2018 创青春 · Hubei Provincial Gold, National Silver",
+        "2018 China College Students' Entrepreneurship Competition · Hubei Provincial Gold, National Silver",
       about_vol_a3:
         "2018 China Youth Volunteers Service Project · Hubei Provincial Gold, National Silver",
 
