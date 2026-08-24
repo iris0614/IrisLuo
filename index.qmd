@@ -180,7 +180,7 @@ pagetitle: "Iris Luo · Data Scientist"
   </section>
 
   <footer class="site-footer">
-    <span>© 2026 Iris Luo</span>
+    <span data-i18n="footer_left">© 2026 Iris Luo</span>
     <span data-i18n="footer_copy">Designed as a bilingual portfolio.</span>
   </footer>
 </div>

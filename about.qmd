@@ -9,7 +9,7 @@ pagetitle: "About · Iris Luo"
     <p class="section-kicker"><span data-i18n="about_kicker">01 / Profile</span></p>
     <h1 data-i18n="about_title">About</h1>
     <p data-i18n="about_lead">Data scientist with dual master’s degrees, a bias for clean pipelines, and a habit of turning messy questions into decisions.</p>
-    <div class="center-link">
+    <div class="hero-actions">
       <a class="btn btn-primary" href="resume.pdf" data-i18n="about_resume">Download resume</a>
       <a class="btn btn-ghost" href="mailto:iris0614ubc@gmail.com" data-i18n="contact_email">Email me</a>
     </div>
@@ -176,7 +176,7 @@ pagetitle: "About · Iris Luo"
   </div>
 
   <footer class="site-footer">
-    <span>© 2026 Iris Luo</span>
+    <span data-i18n="footer_left">© 2026 Iris Luo</span>
     <span data-i18n="footer_copy">Designed as a bilingual portfolio.</span>
   </footer>
 </div>

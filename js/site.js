@@ -69,6 +69,7 @@
       contact_copy: "Available for data science, generative AI, and analytics roles.",
       contact_email: "Email me",
       footer_copy: "Designed as a bilingual portfolio.",
+      footer_left: "© 2026 Iris Luo",
 
       about_kicker: "01 / Profile",
       about_title: "About",
@@ -214,9 +215,9 @@
       tech: "Tech",
     },
     zh: {
-      doc_home: "罗念一 Iris Luo · 数据科学家",
-      doc_about: "关于 · 罗念一 Iris Luo",
-      doc_projects: "项目 · 罗念一 Iris Luo",
+      doc_home: "罗念一 · 数据科学家",
+      doc_about: "关于 · 罗念一",
+      doc_projects: "项目 · 罗念一",
       nav_home: "首页",
       nav_about: "关于",
       nav_projects: "项目",
@@ -224,7 +225,7 @@
       lang_label: "语言",
 
       hero_kicker: "正在关注新机会",
-      hero_name: "罗念一 Iris",
+      hero_name: "罗念一",
       hero_role: "数据科学家 · 生成式 AI",
       hero_bio:
         "我把数据清洗、可视化、建模和生成式 AI 做成可交付的产品。拥有数据科学与经济学双硕士学位，关注靠谱的流水线，而不是演示文稿。",
@@ -280,6 +281,7 @@
       contact_copy: "开放数据科学、生成式 AI 与分析相关的机会。",
       contact_email: "发邮件",
       footer_copy: "双语作品集。",
+      footer_left: "© 2026 罗念一",
 
       about_kicker: "01 / 简介",
       about_title: "关于",

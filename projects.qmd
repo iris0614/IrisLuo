@@ -11,85 +11,100 @@ pagetitle: "Projects · Iris Luo"
     <p data-i18n="proj_lead">A few systems I have designed, built, and shipped — from generative SQL to computer vision on the airfield.</p>
   </header>
 
-  <article class="detail-card block" style="margin-top:0;">
-    <div style="display:flex;align-items:center;gap:.7rem;margin-bottom:.4rem;">
-      <img src="img/sql.png" alt="" width="32" height="32">
-      <h3 data-i18n="p_sql_title" style="margin:0;">SQL Genius</h3>
-    </div>
-    <p data-i18n="proj_sql_desc">An AI SQL agent that turns plain language into queries. Users upload a SQLite database, ask a question, and receive both the SQL and the result — so non-technical teammates can still interrogate data.</p>
-    <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_sql_tech">Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)</span></p>
-    <p class="meta" data-i18n="proj_sql_ai">OpenAI models interpret the question and generate SQL dynamically.</p>
-    <div class="project-links">
-      <a href="https://sqlgenius20250212.streamlit.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
-      <a href="https://github.com/iris0614/SQLGenius" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-    </div>
-  </article>
+  <div class="project-grid">
+    <article class="project-card">
+      <div class="project-media"><img src="img/sql.png" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_sql_title">SQL Genius</h3>
+        <p data-i18n="proj_sql_desc">An AI SQL agent that turns plain language into queries. Users upload a SQLite database, ask a question, and receive both the SQL and the result — so non-technical teammates can still interrogate data.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_sql_tech">Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)</span></p>
+        <div class="pills"><span class="pill">Streamlit</span><span class="pill">OpenAI</span><span class="pill">SQL</span></div>
+        <div class="project-links">
+          <a href="https://sqlgenius20250212.streamlit.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+          <a href="https://github.com/iris0614/SQLGenius" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-media is-cover"><img src="img/Pipeline.png" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_air_title">Airfield Hazards</h3>
+        <p data-i18n="proj_air_desc">A cost-effective object detection pipeline for real-time bird identification at airports, using RetinaNet, YOLOv8, and careful preprocessing to raise both performance and safety.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_air_tech">Python (Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest), Makefile, AWS</span></p>
+        <p class="meta" data-i18n="proj_air_models">Models: RetinaNet, YOLOv8, Faster R-CNN</p>
+        <div class="pills"><span class="pill">YOLOv8</span><span class="pill">PyTorch</span><span class="pill">AWS</span></div>
+        <div class="project-links">
+          <a href="airbird.pdf" data-i18n="paper">Paper</a>
+          <a href="https://masterdatascience.ubc.ca/why-data-science/data-stories/airfield-hazards-bird-tracking-airports" target="_blank" rel="noopener noreferrer" data-i18n="report">Report</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-media"><img src="img/ChurnInsights_img.png" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_churn_title">Churn Insights</h3>
+        <p data-i18n="proj_churn_desc">ETL and cleaning in PostgreSQL, richer visuals in Tableau, then a model comparison in Jupyter — KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression — after thorough EDA.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_churn_tech">Python (Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy), Tableau, PostgreSQL</span></p>
+        <div class="pills"><span class="pill">Tableau</span><span class="pill">PostgreSQL</span><span class="pill">Python</span></div>
+        <div class="project-links">
+          <a href="https://github.com/iris0614/Churn-Insights-Project" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-media"><img src="img/logo_main.png" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_home_title">HomeScope</h3>
+        <p data-i18n="proj_home_desc">An analytics platform for the real-estate market. Built for investors, developers, analysts, and urban planners who need a clear read on what actually moves property value.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_home_tech">Python (Altair, Plotly, Pandas, PyArrow), Dash</span></p>
+        <div class="pills"><span class="pill">Dash</span><span class="pill">Plotly</span><span class="pill">PyArrow</span></div>
+        <div class="project-links">
+          <a href="https://dsci-532-2024-5-homescope.onrender.com/" target="_blank" rel="noopener noreferrer" data-i18n="proj_home_dash">Dashboard</a>
+          <a href="https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-media"><img src="img/logo_crypto.png" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_crypto_title">CryptoPulse</h3>
+        <p data-i18n="proj_crypto_desc">A Shiny dashboard for exploring cryptocurrency data, with a focus on Bitcoin and Ethereum.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_crypto_tech">Python (Plotly), R (dplyr), Shiny</span></p>
+        <div class="pills"><span class="pill">Shiny</span><span class="pill">Plotly</span><span class="pill">R</span></div>
+        <div class="project-links">
+          <a href="https://github.com/iris0614/CryptoPulse" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <div class="project-media"><img src="img/pyxplor_logo.png" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_pyx_title">Pyxplor</h3>
+        <p data-i18n="proj_pyx_desc">A Python package that automates exploratory data analysis for numeric, categorical, binary, and time-series data — less boilerplate, faster first look.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_pyx_tech">Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter</span></p>
+        <div class="pills"><span class="pill">PyPI</span><span class="pill">Pytest</span><span class="pill">Poetry</span></div>
+        <div class="project-links">
+          <a href="https://pyxplor.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer" data-i18n="docs">Docs</a>
+          <a href="https://github.com/UBC-MDS/PyXplor" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+  </div>
 
   <article class="detail-card block">
     <h3 data-i18n="p_air_title">Airfield Hazards</h3>
-    <p data-i18n="proj_air_desc">A cost-effective object detection pipeline for real-time bird identification at airports, using RetinaNet, YOLOv8, and careful preprocessing to raise both performance and safety.</p>
-    <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_air_tech">Python (Altair, Matplotlib, PyTorch, Pandas, NumPy, Pytest), Makefile, AWS</span></p>
-    <p class="meta" data-i18n="proj_air_models">Models: RetinaNet, YOLOv8, Faster R-CNN</p>
-    <div class="project-links">
-      <a href="airbird.pdf" data-i18n="paper">Paper</a>
-      <a href="https://masterdatascience.ubc.ca/why-data-science/data-stories/airfield-hazards-bird-tracking-airports" target="_blank" rel="noopener noreferrer" data-i18n="report">Report</a>
-    </div>
-    <p class="job-role" style="margin-top:1rem;" data-i18n="proj_air_pipe">Project pipeline</p>
-    <div class="media-frame"><img src="img/Pipeline.png" alt="Airfield hazards pipeline"></div>
-    <p class="job-role" style="margin-top:1rem;" data-i18n="proj_air_scripts">How the scripts interact</p>
-    <div class="media-frame"><img src="img/interaction.png" alt="Script interaction diagram"></div>
-  </article>
-
-  <article class="detail-card block">
-    <div style="display:flex;align-items:center;gap:.7rem;margin-bottom:.4rem;">
-      <img src="img/ChurnInsights_img.png" alt="" width="32" height="32">
-      <h3 data-i18n="p_churn_title" style="margin:0;">Churn Insights</h3>
-    </div>
-    <p data-i18n="proj_churn_desc">ETL and cleaning in PostgreSQL, richer visuals in Tableau, then a model comparison in Jupyter — KNN, Decision Tree, Random Forest, RBF SVM, and Logistic Regression — after thorough EDA.</p>
-    <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_churn_tech">Python (Altair, Matplotlib, Plotly, PyTorch, Seaborn, Pandas, NumPy), Tableau, PostgreSQL</span></p>
-    <div class="project-links">
-      <a href="https://github.com/iris0614/Churn-Insights-Project" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-    </div>
-    <div class="media-frame"><img src="img/Churn_insights.gif" alt="Churn Insights demo"></div>
-  </article>
-
-  <article class="detail-card block">
-    <div style="display:flex;align-items:center;gap:.7rem;margin-bottom:.4rem;">
-      <img src="img/logo_main.png" alt="" width="32" height="32">
-      <h3 data-i18n="p_home_title" style="margin:0;">HomeScope</h3>
-    </div>
-    <p data-i18n="proj_home_desc">An analytics platform for the real-estate market. Built for investors, developers, analysts, and urban planners who need a clear read on what actually moves property value.</p>
-    <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_home_tech">Python (Altair, Plotly, Pandas, PyArrow), Dash</span></p>
-    <div class="project-links">
-      <a href="https://dsci-532-2024-5-homescope.onrender.com/" target="_blank" rel="noopener noreferrer" data-i18n="proj_home_dash">Dashboard</a>
-      <a href="https://github.com/UBC-MDS/DSCI-532_2024_5_HomeScope" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-    </div>
-    <div class="media-frame"><img src="img/homescope.gif" alt="HomeScope demo"></div>
-  </article>
-
-  <article class="detail-card block">
-    <div style="display:flex;align-items:center;gap:.7rem;margin-bottom:.4rem;">
-      <img src="img/logo_crypto.png" alt="" width="32" height="32">
-      <h3 data-i18n="p_crypto_title" style="margin:0;">CryptoPulse</h3>
-    </div>
-    <p data-i18n="proj_crypto_desc">A Shiny dashboard for exploring cryptocurrency data, with a focus on Bitcoin and Ethereum.</p>
-    <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_crypto_tech">Python (Plotly), R (dplyr), Shiny</span></p>
-    <div class="project-links">
-      <a href="https://github.com/iris0614/CryptoPulse" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-    </div>
-    <div class="media-frame"><img src="img/demo_crypto.gif" alt="CryptoPulse demo"></div>
-  </article>
-
-  <article class="detail-card block">
-    <div style="display:flex;align-items:center;gap:.7rem;margin-bottom:.4rem;">
-      <img src="img/pyxplor_logo.png" alt="" width="32" height="32">
-      <h3 data-i18n="p_pyx_title" style="margin:0;">Pyxplor</h3>
-    </div>
-    <p data-i18n="proj_pyx_desc">A Python package that automates exploratory data analysis for numeric, categorical, binary, and time-series data — less boilerplate, faster first look.</p>
-    <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_pyx_tech">Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter</span></p>
-    <div class="project-links">
-      <a href="https://pyxplor.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer" data-i18n="docs">Docs</a>
-      <a href="https://github.com/UBC-MDS/PyXplor" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+    <p class="job-role" data-i18n="proj_air_pipe">Project pipeline</p>
+    <div class="diagram-grid">
+      <div class="media-frame"><img src="img/Pipeline.png" alt="Airfield hazards pipeline"></div>
+      <div>
+        <p class="job-role" data-i18n="proj_air_scripts">How the scripts interact</p>
+        <div class="media-frame"><img src="img/interaction.png" alt="Script interaction diagram"></div>
+      </div>
     </div>
   </article>
 
@@ -102,7 +117,7 @@ pagetitle: "Projects · Iris Luo"
   </section>
 
   <footer class="site-footer">
-    <span>© 2026 Iris Luo</span>
+    <span data-i18n="footer_left">© 2026 Iris Luo</span>
     <span data-i18n="footer_copy">Designed as a bilingual portfolio.</span>
   </footer>
 </div>
