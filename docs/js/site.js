@@ -12,11 +12,11 @@
       nav_brand: "Iris Luo",
       lang_label: "Language",
 
-      hero_kicker: "Open to opportunities",
+      hero_kicker: "Open to new opportunities",
       hero_name: "Iris Luo",
       hero_role: "Data Scientist · Generative AI",
       hero_bio:
-        "I build reliable data products across cleaning, visualization, modeling, and generative AI — with dual master’s degrees in Data Science and Economics.",
+        "Data scientist with dual master’s degrees in Data Science and Economics. I turn messy data into products teams can use — from cleaning and visualization to modeling and generative AI.",
       cta_projects: "View projects",
       cta_resume: "Resume",
       cta_about: "About me",
@@ -32,7 +32,7 @@
       skills_eng: "Engineering",
 
       social_label: "Connect",
-      social_copy: "The fastest way to reach me is email. LinkedIn and GitHub are always open too.",
+      social_copy: "Email is the fastest way to reach me. LinkedIn and GitHub work too.",
       social_email: "Email",
       social_email_hint: "iris0614ubc@gmail.com",
       social_linkedin: "LinkedIn",
@@ -66,7 +66,7 @@
       paper: "Paper",
 
       contact_title: "Let’s work together",
-      contact_copy: "Available for data science, generative AI, and analytics roles.",
+      contact_copy: "Open to roles in data science, generative AI, and analytics.",
       contact_email: "Email me",
       footer_copy: "Designed as a bilingual portfolio.",
       footer_left: "© 2026 Iris Luo",
@@ -74,20 +74,20 @@
       about_kicker: "01 / Profile",
       about_title: "About",
       about_lead:
-        "Data scientist with dual master’s degrees, a bias for clean pipelines, and a habit of turning messy questions into decisions.",
+        "Data scientist with dual master’s degrees. I cut through complexity and turn messy pain points into structured solutions that help decisions land fast.",
       about_resume: "Download resume",
 
       about_do_kicker: "02 / Focus",
       about_do_title: "What I do",
       about_do_clean_title: "Data cleaning & transformation",
       about_do_clean:
-        "Protect data integrity and prepare datasets for serious analysis with disciplined wrangling and QA.",
+        "I protect data integrity and get datasets analysis-ready through careful wrangling and QA.",
       about_do_viz_title: "Analysis & visualization",
       about_do_viz:
-        "Turn complex tables into clear stories with Power BI, Tableau, and Python — so teams can actually decide.",
+        "I turn dense tables into clear stories with Power BI, Tableau, and Python, so teams can actually decide.",
       about_do_ai_title: "ML, AI & generative AI",
       about_do_ai:
-        "Apply models and language systems to real problems: NLP, SQL automation, computer vision, and forecasting.",
+        "I apply models and language systems to real problems: NLP, SQL automation, computer vision, and forecasting.",
 
       about_edu_kicker: "03 / Education",
       about_edu_title: "Education",
@@ -188,7 +188,7 @@
 
       proj_kicker: "Selected work",
       proj_title: "Projects",
-      proj_lead: "A few systems I have designed, built, and shipped — from generative SQL to computer vision on the airfield.",
+      proj_lead: "Selected systems I’ve designed, built, and shipped — from generative SQL to computer vision on the airfield.",
       proj_sql_desc:
         "An AI SQL agent that turns plain language into queries. Users upload a SQLite database, ask a question, and receive both the SQL and the result — so non-technical teammates can still interrogate data.",
       proj_sql_tech: "Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)",
@@ -224,11 +224,11 @@
       nav_brand: "罗念一",
       lang_label: "语言",
 
-      hero_kicker: "正在关注新机会",
+      hero_kicker: "目前开放新机会",
       hero_name: "罗念一",
       hero_role: "数据科学家 · 生成式 AI",
       hero_bio:
-        "我把数据清洗、可视化、建模和生成式 AI 做成可交付的产品。拥有数据科学与经济学双硕士学位，关注靠谱的流水线，而不是演示文稿。",
+        "拥有数据科学与经济学双硕士学位，专注数据清洗、可视化、建模与生成式 AI，交付可落地的数据产品。",
       cta_projects: "查看项目",
       cta_resume: "简历",
       cta_about: "关于我",
@@ -244,7 +244,7 @@
       skills_eng: "工程能力",
 
       social_label: "联系",
-      social_copy: "最快的方式是发邮件。LinkedIn 和 GitHub 也随时欢迎。",
+      social_copy: "邮件是最快的联系方式，也欢迎通过 LinkedIn 或 GitHub 找到我。",
       social_email: "邮箱",
       social_email_hint: "iris0614ubc@gmail.com",
       social_linkedin: "领英",
@@ -277,25 +277,25 @@
       docs: "文档",
       paper: "论文",
 
-      contact_title: "可以一起做点什么",
-      contact_copy: "开放数据科学、生成式 AI 与分析相关的机会。",
+      contact_title: "欢迎合作",
+      contact_copy: "目前开放数据科学、生成式 AI 与数据分析相关机会。",
       contact_email: "发邮件",
       footer_copy: "双语作品集。",
       footer_left: "© 2026 罗念一",
 
       about_kicker: "01 / 简介",
       about_title: "关于",
-      about_lead: "数据科学家，双硕士背景。习惯把乱的问题收成干净的流水线，再变成可以拍板的结论。",
+      about_lead: "数据科学家，双硕士背景。终结混乱，化繁为简。将复杂痛点梳理成结构化方案，推动决策高效落地。",
       about_resume: "下载简历",
 
       about_do_kicker: "02 / 方向",
-      about_do_title: "我在做什么",
+      about_do_title: "擅长方向",
       about_do_clean_title: "数据清洗与转换",
-      about_do_clean: "用严格的 wrangling 和质检保护数据完整性，为后续分析备好可用数据集。",
+      about_do_clean: "以规范的数据整理与质检保障数据完整性，为后续分析备好可用数据集。",
       about_do_viz_title: "分析与可视化",
-      about_do_viz: "用 Power BI、Tableau 和 Python 把复杂表格讲清楚，让团队真的能做决定。",
+      about_do_viz: "用 Power BI、Tableau 和 Python 把复杂数据讲清楚，帮助团队做出判断。",
       about_do_ai_title: "机器学习、AI 与生成式 AI",
-      about_do_ai: "把模型与语言模型用到真实问题上：自然语言处理、SQL 自动化、计算机视觉与预测。",
+      about_do_ai: "将模型与大语言模型应用于实际问题：自然语言处理、SQL 自动化、计算机视觉与预测分析。",
 
       about_edu_kicker: "03 / 教育",
       about_edu_title: "教育经历",
@@ -374,7 +374,7 @@
 
       proj_kicker: "作品",
       proj_title: "项目",
-      proj_lead: "从生成式 SQL 到机场计算机视觉，这里是我设计、实现并交付过的一部分系统。",
+      proj_lead: "从生成式 SQL 到机场计算机视觉，这里是我设计并落地的部分作品。",
       proj_sql_desc:
         "把自然语言转成 SQL 的智能体。用户上传 SQLite 数据库、用白话提问，即可同时得到 SQL 与查询结果，让非技术同事也能问数据。",
       proj_sql_tech: "Python（Streamlit、Pandas）、OpenAI API、SQL（PostgreSQL、SQLite）",

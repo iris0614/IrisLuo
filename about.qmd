@@ -8,7 +8,7 @@ pagetitle: "About · Iris Luo"
   <header class="page-hero">
     <p class="section-kicker"><span data-i18n="about_kicker">01 / Profile</span></p>
     <h1 data-i18n="about_title">About</h1>
-    <p data-i18n="about_lead">Data scientist with dual master’s degrees, a bias for clean pipelines, and a habit of turning messy questions into decisions.</p>
+    <p data-i18n="about_lead">Data scientist with dual master’s degrees. I cut through complexity and turn messy pain points into structured solutions that help decisions land fast.</p>
     <div class="hero-actions">
       <a class="btn btn-primary" href="resume.pdf" data-i18n="about_resume">Download resume</a>
       <a class="btn btn-ghost" href="mailto:iris0614ubc@gmail.com" data-i18n="contact_email">Email me</a>
@@ -20,15 +20,15 @@ pagetitle: "About · Iris Luo"
   <div class="card-grid">
     <article class="info-card">
       <h3 data-i18n="about_do_clean_title">Data cleaning &amp; transformation</h3>
-      <p data-i18n="about_do_clean">Protect data integrity and prepare datasets for serious analysis with disciplined wrangling and QA.</p>
+      <p data-i18n="about_do_clean">I protect data integrity and get datasets analysis-ready through careful wrangling and QA.</p>
     </article>
     <article class="info-card">
       <h3 data-i18n="about_do_viz_title">Analysis &amp; visualization</h3>
-      <p data-i18n="about_do_viz">Turn complex tables into clear stories with Power BI, Tableau, and Python — so teams can actually decide.</p>
+      <p data-i18n="about_do_viz">I turn dense tables into clear stories with Power BI, Tableau, and Python, so teams can actually decide.</p>
     </article>
     <article class="info-card">
       <h3 data-i18n="about_do_ai_title">ML, AI &amp; generative AI</h3>
-      <p data-i18n="about_do_ai">Apply models and language systems to real problems: NLP, SQL automation, computer vision, and forecasting.</p>
+      <p data-i18n="about_do_ai">I apply models and language systems to real problems: NLP, SQL automation, computer vision, and forecasting.</p>
     </article>
   </div>
 

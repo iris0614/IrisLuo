@@ -8,7 +8,7 @@ pagetitle: "Projects · Iris Luo"
   <header class="page-hero">
     <p class="section-kicker"><span data-i18n="proj_kicker">Selected work</span></p>
     <h1 data-i18n="proj_title">Projects</h1>
-    <p data-i18n="proj_lead">A few systems I have designed, built, and shipped — from generative SQL to computer vision on the airfield.</p>
+    <p data-i18n="proj_lead">Selected systems I’ve designed, built, and shipped — from generative SQL to computer vision on the airfield.</p>
   </header>
 
   <div class="project-grid">
@@ -111,7 +111,7 @@ pagetitle: "Projects · Iris Luo"
   <section class="contact-band">
     <div>
       <h2 data-i18n="contact_title">Let’s work together</h2>
-      <p data-i18n="contact_copy">Available for data science, generative AI, and analytics roles.</p>
+      <p data-i18n="contact_copy">Open to roles in data science, generative AI, and analytics.</p>
     </div>
     <a class="btn btn-primary" href="mailto:iris0614ubc@gmail.com" data-i18n="contact_email">Email me</a>
   </section>
