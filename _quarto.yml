@@ -1,22 +1,33 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - js/
+    - img/
+    - airbird.pdf
+    - resume.pdf
 
 website:
+  title: "Iris Luo"
   favicon: "img/favicon_io/favicon.ico"
-  title: ""
+  search: false
   navbar:
+    background: "#171512"
+    foreground: "#f4f1ea"
     left:
       - href: index.qmd
-        text: HOME
-      - about.qmd
+        text: Home
+      - href: about.qmd
+        text: About
       - href: projects.qmd
-        text: PROJECTS
+        text: Projects
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    page-layout: custom
+    anchor-sections: false
+    include-in-header: includes/header.html
+    include-after-body: includes/footer-scripts.html
