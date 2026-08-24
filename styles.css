@@ -826,18 +826,6 @@ main.content {
   margin: 0.4rem 0;
 }
 
-.award-list .t-zh {
-  display: none;
-}
-
-html[lang="zh-CN"] .award-list .t-en {
-  display: none;
-}
-
-html[lang="zh-CN"] .award-list .t-zh {
-  display: inline;
-}
-
 .media-frame {
   margin-top: 0.75rem;
   border-radius: 18px;
