@@ -165,11 +165,11 @@
       about_vol_4:
         "Contributed to teacher training with ICT, mixed-mode teaching, and flipped-classroom resources for rural schools.",
       about_vol_a1:
-        "Gold Award · Fourth ‘Internet+’ University Students Innovation and Entrepreneurship Competition, Hubei.",
+        "4th Internet+ · Hubei Provincial Gold",
       about_vol_a2:
-        "Gold (Hubei) and Silver (national) · 2018 China University Students’ Entrepreneurship Competition.",
+        "2018 创青春 · Hubei Provincial Gold, National Silver",
       about_vol_a3:
-        "Gold (Hubei) and Silver (national) · 2018 China Youth Volunteer Service Project Competition.",
+        "2018 China Youth Volunteers Service Project · Hubei Provincial Gold, National Silver",
 
       about_ach_kicker: "07 / Strengths",
       about_ach_title: "Achievements & skills",
@@ -357,9 +357,9 @@
       about_vol_2: "协助搭建 1+X 志愿者管理机制，覆盖 600+ 志愿者和 20 所小学。",
       about_vol_3: "协助对接公益组织与科技公司，争取到约 2.9 万美元资金。",
       about_vol_4: "参与乡村教师培训，引入 ICT、混合教学与翻转课堂，建设互联网教学资源库。",
-      about_vol_a1: "金奖 · 第四届“互联网+”大学生创新创业大赛（湖北）。",
-      about_vol_a2: "湖北金奖、全国银奖 · 2018 年中国“互联网+”大学生创新创业大赛相关赛道。",
-      about_vol_a3: "湖北金奖、全国银奖 · 2018 年中国青年志愿服务项目大赛。",
+      about_vol_a1: "第四届互联网+ · 湖北省金奖",
+      about_vol_a2: "2018 创青春 · 湖北省金奖、全国银奖",
+      about_vol_a3: "2018 中国青年志愿者服务项目 · 湖北省金奖、全国银奖",
 
       about_ach_kicker: "07 / 能力",
       about_ach_title: "成果与技能",

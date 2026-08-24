@@ -145,9 +145,9 @@ pagetitle: "About · Iris Luo"
         <li data-i18n="about_vol_4">Contributed to teacher training with ICT, mixed-mode teaching, and flipped-classroom resources for rural schools.</li>
       </ul>
       <ul class="award-list">
-        <li data-i18n="about_vol_a1">Gold Award · Fourth ‘Internet+’ University Students Innovation and Entrepreneurship Competition, Hubei.</li>
-        <li data-i18n="about_vol_a2">Gold (Hubei) and Silver (national) · 2018 China University Students’ Entrepreneurship Competition.</li>
-        <li data-i18n="about_vol_a3">Gold (Hubei) and Silver (national) · 2018 China Youth Volunteer Service Project Competition.</li>
+        <li data-i18n="about_vol_a1">4th Internet+ · Hubei Provincial Gold</li>
+        <li data-i18n="about_vol_a2">2018 创青春 · Hubei Provincial Gold, National Silver</li>
+        <li data-i18n="about_vol_a3">2018 China Youth Volunteers Service Project · Hubei Provincial Gold, National Silver</li>
       </ul>
     </article>
   </div>
