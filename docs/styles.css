@@ -19,8 +19,8 @@
   --shadow-hover: 0 10px 28px rgba(23, 21, 18, 0.12);
   --radius: 28px;
   --radius-sm: 16px;
-  --font-sans: "Outfit", "Noto Sans SC", ui-sans-serif, system-ui, sans-serif;
-  --font-serif: "Fraunces", "Noto Sans SC", Georgia, serif;
+  --font-sans: "Outfit", "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Fraunces", "Songti SC", "Iowan Old Style", Georgia, "Noto Serif SC", serif;
   --max: 1120px;
   --pad: clamp(1rem, 3vw, 1.75rem);
 }

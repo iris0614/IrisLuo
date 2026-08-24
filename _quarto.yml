@@ -6,9 +6,11 @@ project:
     - img/
     - airbird.pdf
     - resume.pdf
+    - .nojekyll
 
 website:
   title: "Iris Luo"
+  site-url: https://iris0614.github.io/IrisLuo
   favicon: "img/favicon_io/favicon.ico"
   search: false
   navbar:
@@ -25,7 +27,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: bento.css
     toc: false
     page-layout: custom
     anchor-sections: false
