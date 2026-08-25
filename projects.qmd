@@ -13,10 +13,10 @@ pagetitle: "Projects · Iris Luo"
 
   <div class="project-grid">
     <article class="project-card">
-      <div class="project-media is-cover"><img src="img/reading_notes.png" alt=""></div>
+      <div class="project-media is-cover"><img src="img/reading_notes.png?v=20260824b" alt=""></div>
       <div class="project-body">
         <h3 data-i18n="p_notes_title">Reading Notes</h3>
-        <p data-i18n="proj_notes_desc">An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Word and PDF notes are parsed into structured pages — currently Volume 01 with 17 essays.</p>
+        <p data-i18n="proj_notes_desc">An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Volume 01 currently holds seventeen pieces.</p>
         <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_notes_tech">Next.js, TypeScript, Python</span></p>
         <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
         <div class="project-links">

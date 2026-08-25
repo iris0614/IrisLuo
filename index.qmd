@@ -96,10 +96,10 @@ pagetitle: "Iris Luo · Data Scientist"
     </div>
     <div class="project-grid">
       <article class="project-card">
-        <div class="project-media is-cover"><img src="img/reading_notes.png" alt=""></div>
+        <div class="project-media is-cover"><img src="img/reading_notes.png?v=20260824b" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_notes_title">Reading Notes</h3>
-          <p data-i18n="p_notes_desc">Magazine-style private reading journal — generous whitespace and staggered cards; open an essay like a long magazine feature.</p>
+          <p data-i18n="p_notes_desc">A magazine-style private reading journal — keep the books you’ve read on paper. Volume 01, seventeen essays.</p>
           <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
           <div class="project-links">
             <a href="https://reading-notes-pearl.vercel.app" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>

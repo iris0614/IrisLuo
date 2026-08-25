@@ -49,7 +49,7 @@
 
       p_notes_title: "Reading Notes",
       p_notes_desc:
-        "Magazine-style private reading journal — generous whitespace and staggered cards; open an essay like a long magazine feature.",
+        "A magazine-style private reading journal — keep the books you’ve read on paper. Volume 01, seventeen essays.",
       p_zen_title: "MarketZen",
       p_zen_desc:
         "A local-only investment journal. Log trades, keep principles, review growth — data stays in the browser, no account required.",
@@ -197,7 +197,7 @@
       proj_lead:
         "Selected systems I’ve designed, built, and shipped — from a reading journal and investment notebook to generative SQL and computer vision.",
       proj_notes_desc:
-        "An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Word and PDF notes are parsed into structured pages — currently Volume 01 with 17 essays.",
+        "An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Volume 01 currently holds seventeen pieces.",
       proj_notes_tech: "Next.js, TypeScript, Python",
       proj_zen_desc:
         "A minimal local investment journal for recording trades, distilling principles, and reviewing growth. Dashboard, trade log, diary, and review filters — all stored in the browser. No signup, no cloud.",
@@ -228,17 +228,17 @@
       tech: "Tech",
     },
     zh: {
-      doc_home: "罗念一 · 数据科学家",
-      doc_about: "关于 · 罗念一",
-      doc_projects: "项目 · 罗念一",
+      doc_home: "Iris Luo · 数据科学家",
+      doc_about: "关于 · Iris Luo",
+      doc_projects: "项目 · Iris Luo",
       nav_home: "首页",
       nav_about: "关于",
       nav_projects: "项目",
-      nav_brand: "罗念一",
+      nav_brand: "Iris Luo",
       lang_label: "语言",
 
       hero_kicker: "目前开放新机会",
-      hero_name: "罗念一",
+      hero_name: "Iris Luo",
       hero_role: "数据科学家 · 生成式 AI",
       hero_bio:
         "拥有数据科学与经济学双硕士学位，专注数据清洗、可视化、建模与生成式 AI，交付可落地的数据产品。",
@@ -249,7 +249,7 @@
       stat_degrees: "硕士学位",
       stat_projects: "精选项目",
       photo_caption: "UBC 数据科学硕士 · 温哥华",
-      photo_alt: "罗念一的肖像",
+      photo_alt: "Iris Luo 的肖像",
 
       skills_label: "技能",
       skills_ml: "机器学习与 AI",
@@ -264,16 +264,16 @@
       social_linkedin_hint: "iris-luo",
       social_github: "GitHub",
       social_github_hint: "iris0614",
-      aria_email: "给罗念一发邮件",
-      aria_linkedin: "罗念一的领英主页",
-      aria_github: "罗念一的 GitHub",
+      aria_email: "给 Iris Luo 发邮件",
+      aria_linkedin: "Iris Luo 的领英主页",
+      aria_github: "Iris Luo 的 GitHub",
 
       featured_kicker: "02 / 作品",
       featured_title: "精选项目",
       view_all: "全部项目",
 
       p_notes_title: "读书笔记",
-      p_notes_desc: "极简杂志风私人读书笔记：大留白、卡片错落，点开一篇像翻开杂志里的长文。",
+      p_notes_desc: "杂志风私人读书笔记，把读过的书留在纸上。目前第一辑，共十七篇。",
       p_zen_title: "观市",
       p_zen_desc: "极简本地投资手帐。记录交易、沉淀原则、复盘成长。数据只存在浏览器里，无需注册。",
       p_sql_title: "SQL Genius",
@@ -298,7 +298,7 @@
       contact_copy: "目前开放数据科学、生成式 AI 与数据分析相关机会。",
       contact_email: "发邮件",
       footer_copy: "双语作品集。",
-      footer_left: "© 2026 罗念一",
+      footer_left: "© 2026 Iris Luo",
 
       about_kicker: "01 / 简介",
       about_title: "关于",
@@ -393,7 +393,7 @@
       proj_title: "项目",
       proj_lead: "从读书笔记、投资手帐到生成式 SQL 与机场计算机视觉，这里是我设计并落地的部分作品。",
       proj_notes_desc:
-        "极简杂志风的私人读书笔记站：纸张色、大留白、卡片错落。Word / PDF 解析成结构化长文，目前 Volume 01，共 17 篇。",
+        "极简杂志风的私人读书笔记站：纸张色、大留白、卡片错落，点开一篇像翻开杂志里的长文。目前第一辑，共十七篇。",
       proj_notes_tech: "Next.js、TypeScript、Python",
       proj_zen_desc:
         "极简本地投资手帐：仪表盘、交易记录、原则、日记与复盘筛选。数据只存在浏览器里，无需注册，也不上传云端。",
