@@ -49,9 +49,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<meta name="site-build" content="20260824-d">
+<meta name="site-build" content="20260824-lead">
 <style>
   #title-block-header, #quarto-search-results { display: none !important; }
+  @media (min-width: 721px) {
+    .other-lead,
+    .lead-line {
+      white-space: nowrap !important;
+    }
+  }
 </style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -140,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="stat-row">
         <div class="stat"><b>2+</b><span data-i18n="stat_years">Years in data</span></div>
         <div class="stat"><b>2</b><span data-i18n="stat_degrees">Master’s degrees</span></div>
-        <div class="stat"><b>8</b><span data-i18n="stat_projects">Selected projects</span></div>
+        <div class="stat"><b>6</b><span data-i18n="stat_projects">Selected projects</span></div>
       </div>
     </article>
 
@@ -216,29 +222,6 @@ ul.task-list li input[type="checkbox"] {
     </div>
     <div class="project-grid">
       <article class="project-card">
-        <div class="project-media is-cover"><img src="img/reading_notes.png?v=20260824b" alt=""></div>
-        <div class="project-body">
-          <h3 data-i18n="p_notes_title">Reading Notes</h3>
-          <p data-i18n="p_notes_desc">A magazine-style private reading journal — keep the books you’ve read on paper. Volume 01, seventeen essays.</p>
-          <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
-          <div class="project-links">
-            <a href="https://reading-notes-pearl.vercel.app" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
-          </div>
-        </div>
-      </article>
-      <article class="project-card">
-        <div class="project-media is-cover"><img src="img/marketzen.png" alt=""></div>
-        <div class="project-body">
-          <h3 data-i18n="p_zen_title">MarketZen</h3>
-          <p data-i18n="p_zen_desc">A local-only investment journal. Log trades, keep principles, review growth — data stays in the browser, no account required.</p>
-          <div class="pills"><span class="pill">React</span><span class="pill">TypeScript</span><span class="pill">Vite</span></div>
-          <div class="project-links">
-            <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
-            <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-          </div>
-        </div>
-      </article>
-      <article class="project-card">
         <div class="project-media"><img src="img/sql.png" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_sql_title">SQL Genius</h3>
@@ -311,6 +294,37 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </section>
 
+  <section class="block" id="other">
+    <p class="section-kicker"><span data-i18n="other_kicker">03 / Other</span></p>
+    <h2 class="section-heading" data-i18n="other_title">Other work</h2>
+    <p class="other-lead lead-line" data-i18n="other_lead">Personal web platforms built for reading archives and investment research, distinct from my data science portfolio.</p>
+    <div class="project-grid other-grid">
+      <article class="project-card">
+        <div class="project-media is-cover"><img src="img/reading_notes.png?v=20260824b" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_notes_title">Reading Notes</h3>
+          <p data-i18n="p_notes_desc">A magazine-style private reading journal — keep the books you’ve read on paper. Volume 01, seventeen essays.</p>
+          <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
+          <div class="project-links">
+            <a href="https://reading-notes-pearl.vercel.app" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+          </div>
+        </div>
+      </article>
+      <article class="project-card">
+        <div class="project-media is-cover"><img src="img/marketzen.png" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_zen_title">MarketZen</h3>
+          <p data-i18n="p_zen_desc">A local-only investment journal. Log trades, keep principles, review growth — data stays in the browser, no account required.</p>
+          <div class="pills"><span class="pill">React</span><span class="pill">TypeScript</span><span class="pill">Vite</span></div>
+          <div class="project-links">
+            <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+            <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
   <section class="contact-band" id="contact">
     <div>
       <h2 data-i18n="contact_title">Let’s work together</h2>
@@ -331,7 +345,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<script src="js/app.js?v=20260824-iris"></script>
+<script src="js/app.js?v=20260824-other2"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

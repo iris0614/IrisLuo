@@ -46,6 +46,9 @@
       featured_kicker: "02 / Work",
       featured_title: "Selected projects",
       view_all: "All projects",
+      other_kicker: "03 / Other",
+      other_title: "Other work",
+      other_lead: "Personal web platforms built for reading archives and investment research, distinct from my data science portfolio.",
 
       p_notes_title: "Reading Notes",
       p_notes_desc:
@@ -194,8 +197,7 @@
 
       proj_kicker: "Selected work",
       proj_title: "Projects",
-      proj_lead:
-        "Selected systems I’ve designed, built, and shipped — from a reading journal and investment notebook to generative SQL and computer vision.",
+      proj_lead: "Selected systems I’ve designed, built, and shipped — from generative SQL to computer vision on the airfield.",
       proj_notes_desc:
         "An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Volume 01 currently holds seventeen pieces.",
       proj_notes_tech: "Next.js, TypeScript, Python",
@@ -271,6 +273,9 @@
       featured_kicker: "02 / 作品",
       featured_title: "精选项目",
       view_all: "全部项目",
+      other_kicker: "03 / 其他",
+      other_title: "其他作品",
+      other_lead: "用于阅读积累与投资研究的个人网络平台，区别于我的数据科学作品集。",
 
       p_notes_title: "读书笔记",
       p_notes_desc: "杂志风私人读书笔记，把读过的书留在纸上。目前第一辑，共十七篇。",
@@ -391,7 +396,7 @@
 
       proj_kicker: "作品",
       proj_title: "项目",
-      proj_lead: "从读书笔记、投资手帐到生成式 SQL 与机场计算机视觉，这里是我设计并落地的部分作品。",
+      proj_lead: "从生成式 SQL 到机场计算机视觉，这里是我设计并落地的部分作品。",
       proj_notes_desc:
         "极简杂志风的私人读书笔记站：纸张色、大留白、卡片错落，点开一篇像翻开杂志里的长文。目前第一辑，共十七篇。",
       proj_notes_tech: "Next.js、TypeScript、Python",

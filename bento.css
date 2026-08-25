@@ -552,9 +552,25 @@ main.content {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   align-items: stretch;
+}
+
+.other-grid {
+  grid-template-columns: 1fr 1fr;
+}
+
+.other-lead,
+.lead-line {
+  width: auto;
+  max-width: none;
+  color: var(--muted);
+  white-space: nowrap !important;
+}
+
+.other-lead {
+  margin: -0.5rem 0 1.15rem;
 }
 
 .project-card {
@@ -715,7 +731,6 @@ main.content {
 
 .page-hero p {
   margin: 0;
-  max-width: 62ch;
   color: var(--muted);
 }
 
@@ -899,6 +914,11 @@ main.content {
     height: 420px;
     min-height: 360px;
     max-height: none;
+  }
+
+  .other-lead,
+  .lead-line {
+    white-space: normal !important;
   }
 
   .stat-row {

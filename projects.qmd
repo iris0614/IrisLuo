@@ -8,37 +8,10 @@ pagetitle: "Projects · Iris Luo"
   <header class="page-hero">
     <p class="section-kicker"><span data-i18n="proj_kicker">Selected work</span></p>
     <h1 data-i18n="proj_title">Projects</h1>
-    <p data-i18n="proj_lead">Selected systems I’ve designed, built, and shipped — from a reading journal and investment notebook to generative SQL and computer vision.</p>
+    <p class="lead-line" data-i18n="proj_lead">Selected systems I’ve designed, built, and shipped — from generative SQL to computer vision on the airfield.</p>
   </header>
 
   <div class="project-grid">
-    <article class="project-card">
-      <div class="project-media is-cover"><img src="img/reading_notes.png?v=20260824b" alt=""></div>
-      <div class="project-body">
-        <h3 data-i18n="p_notes_title">Reading Notes</h3>
-        <p data-i18n="proj_notes_desc">An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Volume 01 currently holds seventeen pieces.</p>
-        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_notes_tech">Next.js, TypeScript, Python</span></p>
-        <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
-        <div class="project-links">
-          <a href="https://reading-notes-pearl.vercel.app" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
-        </div>
-      </div>
-    </article>
-
-    <article class="project-card">
-      <div class="project-media is-cover"><img src="img/marketzen.png" alt=""></div>
-      <div class="project-body">
-        <h3 data-i18n="p_zen_title">MarketZen</h3>
-        <p data-i18n="proj_zen_desc">A minimal local investment journal for recording trades, distilling principles, and reviewing growth. Dashboard, trade log, diary, and review filters — all stored in the browser. No signup, no cloud.</p>
-        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_zen_tech">React, TypeScript, Vite, Tailwind CSS, Recharts</span></p>
-        <div class="pills"><span class="pill">React</span><span class="pill">TypeScript</span><span class="pill">Vite</span></div>
-        <div class="project-links">
-          <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
-          <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-        </div>
-      </div>
-    </article>
-
     <article class="project-card">
       <div class="project-media"><img src="img/sql.png" alt=""></div>
       <div class="project-body">
@@ -123,17 +96,38 @@ pagetitle: "Projects · Iris Luo"
     </article>
   </div>
 
-  <article class="detail-card block">
-    <h3 data-i18n="p_air_title">Airfield Hazards</h3>
-    <p class="job-role" data-i18n="proj_air_pipe">Project pipeline</p>
-    <div class="diagram-grid">
-      <div class="media-frame"><img src="img/Pipeline.png" alt="Airfield hazards pipeline"></div>
-      <div>
-        <p class="job-role" data-i18n="proj_air_scripts">How the scripts interact</p>
-        <div class="media-frame"><img src="img/interaction.png" alt="Script interaction diagram"></div>
-      </div>
+  <section class="block" id="other">
+    <p class="section-kicker"><span data-i18n="other_kicker">03 / Other</span></p>
+    <h2 class="section-heading" data-i18n="other_title">Other work</h2>
+    <p class="other-lead lead-line" data-i18n="other_lead">Personal web platforms built for reading archives and investment research, distinct from my data science portfolio.</p>
+    <div class="project-grid other-grid">
+      <article class="project-card">
+        <div class="project-media is-cover"><img src="img/reading_notes.png?v=20260824b" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_notes_title">Reading Notes</h3>
+          <p data-i18n="proj_notes_desc">An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Volume 01 currently holds seventeen pieces.</p>
+          <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_notes_tech">Next.js, TypeScript, Python</span></p>
+          <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
+          <div class="project-links">
+            <a href="https://reading-notes-pearl.vercel.app" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+          </div>
+        </div>
+      </article>
+      <article class="project-card">
+        <div class="project-media is-cover"><img src="img/marketzen.png" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_zen_title">MarketZen</h3>
+          <p data-i18n="proj_zen_desc">A minimal local investment journal for recording trades, distilling principles, and reviewing growth. Dashboard, trade log, diary, and review filters — all stored in the browser. No signup, no cloud.</p>
+          <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_zen_tech">React, TypeScript, Vite, Tailwind CSS, Recharts</span></p>
+          <div class="pills"><span class="pill">React</span><span class="pill">TypeScript</span><span class="pill">Vite</span></div>
+          <div class="project-links">
+            <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+            <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+          </div>
+        </div>
+      </article>
     </div>
-  </article>
+  </section>
 
   <section class="contact-band">
     <div>
