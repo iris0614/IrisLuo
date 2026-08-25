@@ -47,6 +47,12 @@
       featured_title: "Selected projects",
       view_all: "All projects",
 
+      p_notes_title: "Reading Notes",
+      p_notes_desc:
+        "Magazine-style private reading journal — generous whitespace and staggered cards; open an essay like a long magazine feature.",
+      p_zen_title: "MarketZen",
+      p_zen_desc:
+        "A local-only investment journal. Log trades, keep principles, review growth — data stays in the browser, no account required.",
       p_sql_title: "SQL Genius",
       p_sql_desc: "Natural-language SQL agent for SQLite and PostgreSQL — ask a question, get the query and the result.",
       p_air_title: "Airfield Hazards",
@@ -188,7 +194,14 @@
 
       proj_kicker: "Selected work",
       proj_title: "Projects",
-      proj_lead: "Selected systems I’ve designed, built, and shipped — from generative SQL to computer vision on the airfield.",
+      proj_lead:
+        "Selected systems I’ve designed, built, and shipped — from a reading journal and investment notebook to generative SQL and computer vision.",
+      proj_notes_desc:
+        "An editorial reading-notes site with a magazine layout: paper-colored pages, staggered cards, and long-form essays. Word and PDF notes are parsed into structured pages — currently Volume 01 with 17 essays.",
+      proj_notes_tech: "Next.js, TypeScript, Python",
+      proj_zen_desc:
+        "A minimal local investment journal for recording trades, distilling principles, and reviewing growth. Dashboard, trade log, diary, and review filters — all stored in the browser. No signup, no cloud.",
+      proj_zen_tech: "React, TypeScript, Vite, Tailwind CSS, Recharts",
       proj_sql_desc:
         "An AI SQL agent that turns plain language into queries. Users upload a SQLite database, ask a question, and receive both the SQL and the result — so non-technical teammates can still interrogate data.",
       proj_sql_tech: "Python (Streamlit, Pandas), OpenAI API, SQL (PostgreSQL, SQLite)",
@@ -259,6 +272,10 @@
       featured_title: "精选项目",
       view_all: "全部项目",
 
+      p_notes_title: "读书笔记",
+      p_notes_desc: "极简杂志风私人读书笔记：大留白、卡片错落，点开一篇像翻开杂志里的长文。",
+      p_zen_title: "观市",
+      p_zen_desc: "极简本地投资手帐。记录交易、沉淀原则、复盘成长。数据只存在浏览器里，无需注册。",
       p_sql_title: "SQL Genius",
       p_sql_desc: "面向 SQLite 与 PostgreSQL 的自然语言 SQL 助手：提问，即可得到查询语句和结果。",
       p_air_title: "机场鸟击风险",
@@ -374,7 +391,13 @@
 
       proj_kicker: "作品",
       proj_title: "项目",
-      proj_lead: "从生成式 SQL 到机场计算机视觉，这里是我设计并落地的部分作品。",
+      proj_lead: "从读书笔记、投资手帐到生成式 SQL 与机场计算机视觉，这里是我设计并落地的部分作品。",
+      proj_notes_desc:
+        "极简杂志风的私人读书笔记站：纸张色、大留白、卡片错落。Word / PDF 解析成结构化长文，目前 Volume 01，共 17 篇。",
+      proj_notes_tech: "Next.js、TypeScript、Python",
+      proj_zen_desc:
+        "极简本地投资手帐：仪表盘、交易记录、原则、日记与复盘筛选。数据只存在浏览器里，无需注册，也不上传云端。",
+      proj_zen_tech: "React、TypeScript、Vite、Tailwind CSS、Recharts",
       proj_sql_desc:
         "把自然语言转成 SQL 的智能体。用户上传 SQLite 数据库、用白话提问，即可同时得到 SQL 与查询结果，让非技术同事也能问数据。",
       proj_sql_tech: "Python（Streamlit、Pandas）、OpenAI API、SQL（PostgreSQL、SQLite）",

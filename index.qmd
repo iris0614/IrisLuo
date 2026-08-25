@@ -20,7 +20,7 @@ pagetitle: "Iris Luo · Data Scientist"
       <div class="stat-row">
         <div class="stat"><b>2+</b><span data-i18n="stat_years">Years in data</span></div>
         <div class="stat"><b>2</b><span data-i18n="stat_degrees">Master’s degrees</span></div>
-        <div class="stat"><b>6</b><span data-i18n="stat_projects">Selected projects</span></div>
+        <div class="stat"><b>8</b><span data-i18n="stat_projects">Selected projects</span></div>
       </div>
     </article>
 
@@ -95,6 +95,29 @@ pagetitle: "Iris Luo · Data Scientist"
       <a class="btn btn-ghost" href="projects.html" data-i18n="view_all">All projects</a>
     </div>
     <div class="project-grid">
+      <article class="project-card">
+        <div class="project-media is-cover"><img src="img/reading_notes.png" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_notes_title">Reading Notes</h3>
+          <p data-i18n="p_notes_desc">Magazine-style private reading journal — generous whitespace and staggered cards; open an essay like a long magazine feature.</p>
+          <div class="pills"><span class="pill">Next.js</span><span class="pill">TypeScript</span><span class="pill">Python</span></div>
+          <div class="project-links">
+            <a href="https://reading-notes-pearl.vercel.app" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+          </div>
+        </div>
+      </article>
+      <article class="project-card">
+        <div class="project-media is-cover"><img src="img/marketzen.png" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_zen_title">MarketZen</h3>
+          <p data-i18n="p_zen_desc">A local-only investment journal. Log trades, keep principles, review growth — data stays in the browser, no account required.</p>
+          <div class="pills"><span class="pill">React</span><span class="pill">TypeScript</span><span class="pill">Vite</span></div>
+          <div class="project-links">
+            <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+            <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+          </div>
+        </div>
+      </article>
       <article class="project-card">
         <div class="project-media"><img src="img/sql.png" alt=""></div>
         <div class="project-body">
