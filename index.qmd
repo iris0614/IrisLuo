@@ -25,7 +25,7 @@ pagetitle: "Iris Luo · Data Scientist"
     </article>
 
     <article class="tile tile-photo">
-      <img src="img/home1.jpg" data-i18n-alt="photo_alt" alt="Portrait of Iris Luo">
+      <img src="img/home1.jpg?v=20260824-cover" data-i18n-alt="photo_alt" alt="Portrait of Iris Luo">
       <div class="photo-caption" data-i18n="photo_caption">UBC MDS · Vancouver</div>
     </article>
 
