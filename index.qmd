@@ -137,7 +137,7 @@ pagetitle: "Iris Luo · Business Analyst"
         </div>
       </article>
       <article class="project-card">
-        <div class="project-media is-cover"><img src="img/cryptopulse.png?v=20260913" alt=""></div>
+        <div class="project-media"><img src="img/logo.png?v=20260913-nb" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_crypto_title">CryptoPulse</h3>
           <p data-i18n="p_crypto_desc">Market-structure dashboard for BTC, ETH, SOL, and BNB: spot vs futures volume, MA200 regime, and liquidation levels.</p>

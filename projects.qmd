@@ -69,7 +69,7 @@ pagetitle: "Projects · Iris Luo"
     </article>
 
     <article class="project-card">
-        <div class="project-media is-cover"><img src="img/cryptopulse.png?v=20260913" alt=""></div>
+        <div class="project-media"><img src="img/logo.png?v=20260913-nb" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_crypto_title">CryptoPulse</h3>
           <p data-i18n="proj_crypto_desc">Built for traders and analysts who need more than a price chart. Compare spot and derivatives volume, read the 200-day regime, and map estimated liquidation clusters across BTC, ETH, SOL, and BNB — in an Apple-style interface.</p>
