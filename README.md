@@ -1,9 +1,9 @@
-数据科学家 · 生成式 AI  
-Data Scientist · Generative AI
+商业分析师 · 投资洞察  
+Business Analyst · Investment Insight
 
-拥有数据科学与经济学双硕士学位（UBC MDS）。专注数据清洗、可视化、建模与生成式 AI，把复杂问题做成可落地的方案。
+拥有数据科学与经济学双硕士学位（UBC MDS）。以商业分析与投资决策为核心，把市场信号、经营指标与复杂数据转成可落地的判断。
 
-Data scientist with dual master’s degrees in Data Science and Economics. I turn messy data into products teams can use — from cleaning and visualization to modeling and generative AI.
+Business analyst with dual master’s degrees in Data Science and Economics. I turn market signals, operating metrics, and messy data into decisions — insight first, models second.
 
 ---
 
