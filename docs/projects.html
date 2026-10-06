@@ -134,10 +134,24 @@ ul.task-list li input[type="checkbox"] {
   <header class="page-hero">
     <p class="section-kicker"><span data-i18n="proj_kicker">Selected work</span></p>
     <h1 data-i18n="proj_title">Projects</h1>
-    <p class="lead-line" data-i18n="proj_lead">From customer economics to market structure — selected work designed to support a decision.</p>
+    <p class="lead-line" data-i18n="proj_lead">From customer economics to winter energy markets — selected work designed to support a decision.</p>
   </header>
 
   <div class="project-grid">
+    <article class="project-card">
+      <div class="project-media is-cover"><img src="img/energy.png?v=20261005" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_energy_title">Transatlantic Energy</h3>
+        <p data-i18n="proj_energy_desc">A decision desk for winter energy: 12 indicators along the chain from feedstock to heating. Read European storage, Gulf Coast LNG, distillate tightness, and how a colder winter changes the TTF–Henry Hub window.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_energy_tech">HTML, JSON, Frankfurter (ECB FX)</span></p>
+        <div class="pills"><span class="pill">Energy</span><span class="pill">Arbitrage</span><span class="pill">TTF / HH</span></div>
+        <div class="project-links">
+          <a href="https://iris0614.github.io/energy-dashboard/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+          <a href="https://github.com/iris0614/energy-dashboard" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+
     <article class="project-card">
       <div class="project-media"><img src="img/sql.png" alt=""></div>
       <div class="project-body">
@@ -195,19 +209,6 @@ ul.task-list li input[type="checkbox"] {
     </article>
 
     <article class="project-card">
-        <div class="project-media"><img src="img/logo.png?v=20260913-nb" alt=""></div>
-        <div class="project-body">
-          <h3 data-i18n="p_crypto_title">CryptoPulse</h3>
-          <p data-i18n="proj_crypto_desc">Built for traders and analysts who need more than a price chart. Compare spot and derivatives volume, read the 200-day regime, and map estimated liquidation clusters across BTC, ETH, SOL, and BNB — in an Apple-style interface.</p>
-          <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_crypto_tech">R (Shiny, dplyr), Python (Plotly), Binance spot &amp; USDT-M APIs</span></p>
-          <div class="pills"><span class="pill">Spot / Futures</span><span class="pill">MA200</span><span class="pill">SOL / BNB</span></div>
-        <div class="project-links">
-          <a href="https://github.com/iris0614/CryptoPulse" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-        </div>
-      </div>
-    </article>
-
-    <article class="project-card">
       <div class="project-media"><img src="img/pyxplor_logo.png" alt=""></div>
       <div class="project-body">
         <h3 data-i18n="p_pyx_title">Pyxplor</h3>
@@ -228,10 +229,10 @@ ul.task-list li input[type="checkbox"] {
     <p class="other-lead lead-line" data-i18n="other_lead">Personal platforms for reading archives and investment research — how I think about markets.</p>
     <div class="project-grid other-grid">
       <article class="project-card">
-        <div class="project-media is-cover"><img src="img/reading_notes.jpg?v=20260913" alt=""></div>
+        <div class="project-media is-cover"><img src="img/reading_notes.jpg?v=20261005" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_notes_title">Reading Notes</h3>
-          <p data-i18n="proj_notes_desc">An editorial journal with a magazine layout. Volume 01 now holds nineteen essays — cycles, risk, investing, and how to decide.</p>
+          <p data-i18n="proj_notes_desc">An editorial journal with a magazine layout. Volume 01 now holds twenty essays — cycles, risk, investing, and how to decide.</p>
           <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_notes_tech">Next.js, TypeScript, Python</span></p>
           <div class="pills"><span class="pill">Cycles</span><span class="pill">Risk</span><span class="pill">Investing</span></div>
           <div class="project-links">
@@ -272,7 +273,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<script src="js/app.js?v=20260913-ba"></script>
+<script src="js/app.js?v=20261005-nocrypto"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

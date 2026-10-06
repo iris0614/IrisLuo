@@ -59,10 +59,13 @@
 
       p_notes_title: "Reading Notes",
       p_notes_desc:
-        "A magazine-style journal of books and the thinking they leave. Volume 01, nineteen essays on cycles, risk, and decisions.",
+        "A magazine-style journal of books and the thinking they leave. Volume 01, twenty essays on cycles, risk, and decisions.",
       p_zen_title: "MarketZen",
       p_zen_desc:
         "A local investment journal. Log trades, keep principles, review the quality of decisions — data stays in the browser.",
+      p_energy_title: "Transatlantic Energy",
+      p_energy_desc:
+        "Winter energy balance and LNG arbitrage across the Atlantic — TTF vs Henry Hub, inventory, and the window that opens the trade.",
       p_sql_title: "SQL Genius",
       p_sql_desc: "Ask a business question in plain language — get the metric, the query, and the answer.",
       p_air_title: "Airfield Hazards",
@@ -71,8 +74,6 @@
       p_churn_desc: "Retention economics: who leaves, why it matters, and which levers are worth pulling.",
       p_home_title: "HomeScope",
       p_home_desc: "What actually moves property value — for investors, planners, and market analysts.",
-      p_crypto_title: "CryptoPulse",
-      p_crypto_desc: "Market-structure dashboard for BTC, ETH, SOL, and BNB: spot vs futures volume, MA200 regime, and liquidation levels.",
       p_pyx_title: "Pyxplor",
       p_pyx_desc: "Faster first look at a dataset, so the analysis can start with the business question.",
       live: "Live",
@@ -204,10 +205,13 @@
 
       proj_kicker: "Selected work",
       proj_title: "Projects",
-      proj_lead: "From customer economics to market structure — selected work designed to support a decision.",
+      proj_lead: "From customer economics to winter energy markets — selected work designed to support a decision.",
       proj_notes_desc:
-        "An editorial journal with a magazine layout. Volume 01 now holds nineteen essays — cycles, risk, investing, and how to decide.",
+        "An editorial journal with a magazine layout. Volume 01 now holds twenty essays — cycles, risk, investing, and how to decide.",
       proj_notes_tech: "Next.js, TypeScript, Python",
+      proj_energy_desc:
+        "A decision desk for winter energy: 12 indicators along the chain from feedstock to heating. Read European storage, Gulf Coast LNG, distillate tightness, and how a colder winter changes the TTF–Henry Hub window.",
+      proj_energy_tech: "HTML, JSON, Frankfurter (ECB FX)",
       proj_zen_desc:
         "A local investment journal for logging trades, keeping principles, and reviewing the quality of decisions. Dashboard, trade log, diary, and review filters — stored in the browser. No signup, no cloud.",
       proj_zen_tech: "React, TypeScript, Vite, Tailwind CSS, Recharts",
@@ -228,9 +232,6 @@
         "A market-read for investors, developers, analysts, and planners who need to see what actually moves property value.",
       proj_home_tech: "Python (Altair, Plotly, Pandas, PyArrow), Dash",
       proj_home_dash: "Dashboard",
-      proj_crypto_desc:
-        "Built for traders and analysts who need more than a price chart. Compare spot and derivatives volume, read the 200-day regime, and map estimated liquidation clusters across BTC, ETH, SOL, and BNB — in an Apple-style interface.",
-      proj_crypto_tech: "R (Shiny, dplyr), Python (Plotly), Binance spot & USDT-M APIs",
       proj_pyx_desc:
         "A first-pass toolkit across numeric, categorical, binary, and time-series data — less setup, more time on the decision.",
       proj_pyx_tech: "Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter",
@@ -292,9 +293,11 @@
       other_lead: "用于阅读积累与投资研究的个人平台，延续我对市场与决策的思考。",
 
       p_notes_title: "读书笔记",
-      p_notes_desc: "杂志风私人读书笔记，把读过的书与思考留在纸上。目前第一辑十九篇，写周期、风险与决策。",
+      p_notes_desc: "杂志风私人读书笔记，把读过的书与思考留在纸上。目前第一辑二十篇，写周期、风险与决策。",
       p_zen_title: "观市",
       p_zen_desc: "极简本地投资手帐。记录交易、沉淀原则、复盘决策质量。数据只存在浏览器里，无需注册。",
+      p_energy_title: "跨大西洋能源看板",
+      p_energy_desc: "冬季能源平衡与跨大西洋 LNG 套利：TTF 对 Henry Hub、库存，以及窗口何时打开。",
       p_sql_title: "SQL Genius",
       p_sql_desc: "用白话提出业务问题，同时得到指标、查询语句和结果。",
       p_air_title: "机场鸟击风险",
@@ -303,8 +306,6 @@
       p_churn_desc: "客户留存经济学：谁在离开、为什么重要、哪些杠杆值得拉。",
       p_home_title: "HomeScope",
       p_home_desc: "看清真正推动房价的变量——给投资人、规划者与市场分析师。",
-      p_crypto_title: "CryptoPulse",
-      p_crypto_desc: "覆盖 BTC、ETH、SOL、BNB 的市场结构仪表盘：现货/合约量、MA200 趋势与清算线。",
       p_pyx_title: "Pyxplor",
       p_pyx_desc: "更快看清数据集的第一面，好让分析从业务问题开始。",
       live: "线上演示",
@@ -410,10 +411,13 @@
 
       proj_kicker: "作品",
       proj_title: "项目",
-      proj_lead: "从客户经济到市场结构，这里是我做过的一部分决策支持作品。",
+      proj_lead: "从客户经济到冬季能源市场，这里是我做过的一部分决策支持作品。",
       proj_notes_desc:
-        "极简杂志风的私人读书笔记：纸张色、大留白、卡片错落。目前第一辑十九篇，记录周期、风险、投资与如何做判断。",
+        "极简杂志风的私人读书笔记：纸张色、大留白、卡片错落。目前第一辑二十篇，记录周期、风险、投资与如何做判断。",
       proj_notes_tech: "Next.js、TypeScript、Python",
+      proj_energy_desc:
+        "冬季能源的决策台：沿原料到供暖链路上的 12 项指标。看欧洲库存、墨西哥湾 LNG、馏分油紧度，以及更冷的冬天如何改写 TTF–Henry Hub 窗口。",
+      proj_energy_tech: "HTML、JSON、Frankfurter（ECB 汇率）",
       proj_zen_desc:
         "极简本地投资手帐：仪表盘、交易记录、原则、日记与复盘。用来沉淀决策质量。数据只存在浏览器里，无需注册。",
       proj_zen_tech: "React、TypeScript、Vite、Tailwind CSS、Recharts",
@@ -433,9 +437,6 @@
       proj_home_desc: "给投资人、开发商、分析师与规划者的市场阅读：看清真正推动房价的变量。",
       proj_home_tech: "Python（Altair、Plotly、Pandas、PyArrow）、Dash",
       proj_home_dash: "仪表盘",
-      proj_crypto_desc:
-        "给需要看清市场结构的交易员与分析师：对比现货与合约成交量，读取 200 日均线所处区间，并估算 BTC、ETH、SOL、BNB 的清算密集区。界面为苹果风。",
-      proj_crypto_tech: "R（Shiny、dplyr）、Python（Plotly）、币安现货与 U 本位合约接口",
       proj_pyx_desc: "对数值、类别、二元与时序数据做第一轮扫描，少花准备时间，多留给判断。",
       proj_pyx_tech: "Python（PyPI、Pytest、Seaborn、Pandas）、Poetry、Cookiecutter",
       tech: "技术栈",
