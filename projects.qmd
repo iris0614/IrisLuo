@@ -13,12 +13,12 @@ pagetitle: "Projects · Iris Luo"
 
   <div class="project-grid">
     <article class="project-card">
-      <div class="project-media is-cover"><img src="img/energy.png?v=20261005" alt=""></div>
+      <div class="project-media is-cover"><img src="img/energy.png?v=20261007" alt=""></div>
       <div class="project-body">
         <h3 data-i18n="p_energy_title">Transatlantic Energy</h3>
-        <p data-i18n="proj_energy_desc">A decision desk for winter energy: 12 indicators along the chain from feedstock to heating. Read European storage, Gulf Coast LNG, distillate tightness, and how a colder winter changes the TTF–Henry Hub window.</p>
+        <p data-i18n="proj_energy_desc">One desk for the winter chain. Storage versus heating-degree days, a USG-to-NWE LNG waterfall, and distillate tightness. Chinese and English. Snapshot numbers live in data.json; ECB FX via Frankfurter is a footnote, not the trade.</p>
         <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_energy_tech">HTML, JSON, Frankfurter (ECB FX)</span></p>
-        <div class="pills"><span class="pill">Energy</span><span class="pill">Arbitrage</span><span class="pill">TTF / HH</span></div>
+        <div class="pills"><span class="pill">Energy</span><span class="pill">LNG</span><span class="pill">Distillate</span></div>
         <div class="project-links">
           <a href="https://iris0614.github.io/energy-dashboard/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
           <a href="https://github.com/iris0614/energy-dashboard" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>

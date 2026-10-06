@@ -90,11 +90,11 @@ pagetitle: "Iris Luo · Business Analyst"
     </div>
     <div class="project-grid">
       <article class="project-card">
-        <div class="project-media is-cover"><img src="img/energy.png?v=20261005" alt=""></div>
+        <div class="project-media is-cover"><img src="img/energy.png?v=20261007" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_energy_title">Transatlantic Energy</h3>
-          <p data-i18n="p_energy_desc">Winter energy balance and LNG arbitrage across the Atlantic — TTF vs Henry Hub, inventory, and the window that opens the trade.</p>
-          <div class="pills"><span class="pill">Energy</span><span class="pill">Arbitrage</span><span class="pill">TTF / HH</span></div>
+          <p data-i18n="p_energy_desc">A bilingual winter desk: European storage, USG–NWE LNG arb, and distillate — from feedstock through Atlantic freight.</p>
+          <div class="pills"><span class="pill">Energy</span><span class="pill">LNG</span><span class="pill">Distillate</span></div>
           <div class="project-links">
             <a href="https://iris0614.github.io/energy-dashboard/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
             <a href="https://github.com/iris0614/energy-dashboard" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>

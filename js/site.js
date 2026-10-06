@@ -65,7 +65,7 @@
         "A local investment journal. Log trades, keep principles, review the quality of decisions — data stays in the browser.",
       p_energy_title: "Transatlantic Energy",
       p_energy_desc:
-        "Winter energy balance and LNG arbitrage across the Atlantic — TTF vs Henry Hub, inventory, and the window that opens the trade.",
+        "A bilingual winter desk: European storage, USG–NWE LNG arb, and distillate — from feedstock through Atlantic freight.",
       p_sql_title: "SQL Genius",
       p_sql_desc: "Ask a business question in plain language — get the metric, the query, and the answer.",
       p_air_title: "Airfield Hazards",
@@ -210,7 +210,7 @@
         "An editorial journal with a magazine layout. Volume 01 now holds twenty essays — cycles, risk, investing, and how to decide.",
       proj_notes_tech: "Next.js, TypeScript, Python",
       proj_energy_desc:
-        "A decision desk for winter energy: 12 indicators along the chain from feedstock to heating. Read European storage, Gulf Coast LNG, distillate tightness, and how a colder winter changes the TTF–Henry Hub window.",
+        "One desk for the winter chain. Storage versus heating-degree days, a USG-to-NWE LNG waterfall, and distillate tightness. Chinese and English. Snapshot numbers live in data.json; ECB FX via Frankfurter is a footnote, not the trade.",
       proj_energy_tech: "HTML, JSON, Frankfurter (ECB FX)",
       proj_zen_desc:
         "A local investment journal for logging trades, keeping principles, and reviewing the quality of decisions. Dashboard, trade log, diary, and review filters — stored in the browser. No signup, no cloud.",
@@ -297,7 +297,7 @@
       p_zen_title: "观市",
       p_zen_desc: "极简本地投资手帐。记录交易、沉淀原则、复盘决策质量。数据只存在浏览器里，无需注册。",
       p_energy_title: "跨大西洋能源看板",
-      p_energy_desc: "冬季能源平衡与跨大西洋 LNG 套利：TTF 对 Henry Hub、库存，以及窗口何时打开。",
+      p_energy_desc: "中英双语的冬季能源决策台：欧洲气库、美湾到西北欧 LNG 套利、柴油炼能——从原料读到跨大西洋海运。",
       p_sql_title: "SQL Genius",
       p_sql_desc: "用白话提出业务问题，同时得到指标、查询语句和结果。",
       p_air_title: "机场鸟击风险",
@@ -416,7 +416,7 @@
         "极简杂志风的私人读书笔记：纸张色、大留白、卡片错落。目前第一辑二十篇，记录周期、风险、投资与如何做判断。",
       proj_notes_tech: "Next.js、TypeScript、Python",
       proj_energy_desc:
-        "冬季能源的决策台：沿原料到供暖链路上的 12 项指标。看欧洲库存、墨西哥湾 LNG、馏分油紧度，以及更冷的冬天如何改写 TTF–Henry Hub 窗口。",
+        "一张决策台读完冬季链路：气库对采暖度日、美湾到西北欧的 LNG 套利瀑布、柴油炼能。中英切换。快照在 data.json；欧洲央行汇率只作旁注，不改写交易口径。",
       proj_energy_tech: "HTML、JSON、Frankfurter（ECB 汇率）",
       proj_zen_desc:
         "极简本地投资手帐：仪表盘、交易记录、原则、日记与复盘。用来沉淀决策质量。数据只存在浏览器里，无需注册。",
