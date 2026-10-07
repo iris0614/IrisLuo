@@ -557,10 +557,6 @@ main.content {
   align-items: stretch;
 }
 
-.other-grid {
-  grid-template-columns: 1fr 1fr;
-}
-
 .other-lead,
 .lead-line {
   width: auto;

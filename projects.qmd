@@ -8,10 +8,24 @@ pagetitle: "Projects · Iris Luo"
   <header class="page-hero">
     <p class="section-kicker"><span data-i18n="proj_kicker">Selected work</span></p>
     <h1 data-i18n="proj_title">Projects</h1>
-    <p class="lead-line" data-i18n="proj_lead">From customer economics to winter energy markets — selected work designed to support a decision.</p>
+    <p class="lead-line" data-i18n="proj_lead">From customer economics to weekly markets and winter energy — selected work designed to support a decision.</p>
   </header>
 
   <div class="project-grid">
+    <article class="project-card">
+      <div class="project-media is-cover"><img src="img/finance.png?v=20261007" alt=""></div>
+      <div class="project-body">
+        <h3 data-i18n="p_finance_title">Ten Charts</h3>
+        <p data-i18n="proj_finance_desc">Ten charts, one week. Each edition is immutable JSON — the numbers, the takeaways, and why they matter stay with that week. Open a date, not a tick.</p>
+        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_finance_tech">HTML, Chart.js, JSON editions</span></p>
+        <div class="pills"><span class="pill">Markets</span><span class="pill">Briefing</span><span class="pill">Weekly</span></div>
+        <div class="project-links">
+          <a href="https://iris0614.github.io/global-finance-dashboard/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+          <a href="https://github.com/iris0614/global-finance-dashboard" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+        </div>
+      </div>
+    </article>
+
     <article class="project-card">
       <div class="project-media is-cover"><img src="img/energy.png?v=20261007" alt=""></div>
       <div class="project-body">
@@ -81,26 +95,12 @@ pagetitle: "Projects · Iris Luo"
         </div>
       </div>
     </article>
-
-    <article class="project-card">
-      <div class="project-media"><img src="img/pyxplor_logo.png" alt=""></div>
-      <div class="project-body">
-        <h3 data-i18n="p_pyx_title">Pyxplor</h3>
-        <p data-i18n="proj_pyx_desc">A first-pass toolkit across numeric, categorical, binary, and time-series data — less setup, more time on the decision.</p>
-        <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_pyx_tech">Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter</span></p>
-        <div class="pills"><span class="pill">First look</span><span class="pill">EDA</span><span class="pill">Python</span></div>
-        <div class="project-links">
-          <a href="https://pyxplor.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer" data-i18n="docs">Docs</a>
-          <a href="https://github.com/UBC-MDS/PyXplor" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-        </div>
-      </div>
-    </article>
   </div>
 
   <section class="block" id="other">
     <p class="section-kicker"><span data-i18n="other_kicker">03 / Other</span></p>
     <h2 class="section-heading" data-i18n="other_title">Other work</h2>
-    <p class="other-lead lead-line" data-i18n="other_lead">Personal platforms for reading archives and investment research — how I think about markets.</p>
+    <p class="other-lead lead-line" data-i18n="other_lead">Reading, research tools, and how I think about markets.</p>
     <div class="project-grid other-grid">
       <article class="project-card">
         <div class="project-media is-cover"><img src="img/reading_notes.jpg?v=20261005" alt=""></div>
@@ -124,6 +124,19 @@ pagetitle: "Projects · Iris Luo"
           <div class="project-links">
             <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
             <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+          </div>
+        </div>
+      </article>
+      <article class="project-card">
+        <div class="project-media"><img src="img/pyxplor_logo.png" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_pyx_title">Pyxplor</h3>
+          <p data-i18n="proj_pyx_desc">A first-pass toolkit across numeric, categorical, binary, and time-series data — less setup, more time on the decision.</p>
+          <p class="meta"><span data-i18n="tech">Tech</span>: <span data-i18n="proj_pyx_tech">Python (PyPI, Pytest, Seaborn, Pandas), Poetry, Cookiecutter</span></p>
+          <div class="pills"><span class="pill">First look</span><span class="pill">EDA</span><span class="pill">Python</span></div>
+          <div class="project-links">
+            <a href="https://pyxplor.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer" data-i18n="docs">Docs</a>
+            <a href="https://github.com/UBC-MDS/PyXplor" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
           </div>
         </div>
       </article>

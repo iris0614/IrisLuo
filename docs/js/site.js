@@ -55,7 +55,7 @@
       view_all: "All projects",
       other_kicker: "03 / Other",
       other_title: "Other work",
-      other_lead: "Personal platforms for reading archives and investment research — how I think about markets.",
+      other_lead: "Reading, research tools, and how I think about markets.",
 
       p_notes_title: "Reading Notes",
       p_notes_desc:
@@ -63,6 +63,9 @@
       p_zen_title: "MarketZen",
       p_zen_desc:
         "A local investment journal. Log trades, keep principles, review the quality of decisions — data stays in the browser.",
+      p_finance_title: "Ten Charts",
+      p_finance_desc:
+        "A weekly briefing of ten charts — markets, rates, and risk, frozen as dated editions rather than a live ticker.",
       p_energy_title: "Transatlantic Energy",
       p_energy_desc:
         "A bilingual winter desk: European storage, USG–NWE LNG arb, and distillate — from feedstock through Atlantic freight.",
@@ -205,10 +208,13 @@
 
       proj_kicker: "Selected work",
       proj_title: "Projects",
-      proj_lead: "From customer economics to winter energy markets — selected work designed to support a decision.",
+      proj_lead: "From customer economics to weekly markets and winter energy — selected work designed to support a decision.",
       proj_notes_desc:
         "An editorial journal with a magazine layout. Volume 01 now holds twenty essays — cycles, risk, investing, and how to decide.",
       proj_notes_tech: "Next.js, TypeScript, Python",
+      proj_finance_desc:
+        "Ten charts, one week. Each edition is immutable JSON — the numbers, the takeaways, and why they matter stay with that week. Open a date, not a tick.",
+      proj_finance_tech: "HTML, Chart.js, JSON editions",
       proj_energy_desc:
         "One desk for the winter chain. Storage versus heating-degree days, a USG-to-NWE LNG waterfall, and distillate tightness. Chinese and English. Snapshot numbers live in data.json; ECB FX via Frankfurter is a footnote, not the trade.",
       proj_energy_tech: "HTML, JSON, Frankfurter (ECB FX)",
@@ -290,12 +296,14 @@
       view_all: "全部项目",
       other_kicker: "03 / 其他",
       other_title: "其他作品",
-      other_lead: "用于阅读积累与投资研究的个人平台，延续我对市场与决策的思考。",
+      other_lead: "阅读积累、研究工具，以及我对市场的思考。",
 
       p_notes_title: "读书笔记",
       p_notes_desc: "杂志风私人读书笔记，把读过的书与思考留在纸上。目前第一辑二十篇，写周期、风险与决策。",
       p_zen_title: "观市",
       p_zen_desc: "极简本地投资手帐。记录交易、沉淀原则、复盘决策质量。数据只存在浏览器里，无需注册。",
+      p_finance_title: "全球财经十图",
+      p_finance_desc: "每周十图的财经简报：市场、利率与风险。按发布日锁定期次，不是实时行情。",
       p_energy_title: "跨大西洋能源看板",
       p_energy_desc: "中英双语的冬季能源决策台：欧洲气库、美湾到西北欧 LNG 套利、柴油炼能——从原料读到跨大西洋海运。",
       p_sql_title: "SQL Genius",
@@ -411,10 +419,13 @@
 
       proj_kicker: "作品",
       proj_title: "项目",
-      proj_lead: "从客户经济到冬季能源市场，这里是我做过的一部分决策支持作品。",
+      proj_lead: "从客户经济到每周市场与冬季能源，这里是我做过的一部分决策支持作品。",
       proj_notes_desc:
         "极简杂志风的私人读书笔记：纸张色、大留白、卡片错落。目前第一辑二十篇，记录周期、风险、投资与如何做判断。",
       proj_notes_tech: "Next.js、TypeScript、Python",
+      proj_finance_desc:
+        "一周十图。每一期是不可改的 JSON：数字、核心观点和为什么重要都属于这一周。打开的是日期，不是跳动的行情。",
+      proj_finance_tech: "HTML、Chart.js、JSON 期次",
       proj_energy_desc:
         "一张决策台读完冬季链路：气库对采暖度日、美湾到西北欧的 LNG 套利瀑布、柴油炼能。中英切换。快照在 data.json；欧洲央行汇率只作旁注，不改写交易口径。",
       proj_energy_tech: "HTML、JSON、Frankfurter（ECB 汇率）",

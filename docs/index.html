@@ -49,9 +49,22 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<meta name="site-build" content="20260913-ba">
+<meta name="site-build" content="20261007-3col">
 <style>
   #title-block-header, #quarto-search-results { display: none !important; }
+  .project-grid.other-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  @media (max-width: 980px) {
+    .project-grid.other-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (max-width: 720px) {
+    .project-grid.other-grid {
+      grid-template-columns: 1fr;
+    }
+  }
   @media (min-width: 721px) {
     .other-lead,
     .lead-line {
@@ -216,6 +229,18 @@ ul.task-list li input[type="checkbox"] {
     </div>
     <div class="project-grid">
       <article class="project-card">
+        <div class="project-media is-cover"><img src="img/finance.png?v=20261007" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_finance_title">Ten Charts</h3>
+          <p data-i18n="p_finance_desc">A weekly briefing of ten charts — markets, rates, and risk, frozen as dated editions rather than a live ticker.</p>
+          <div class="pills"><span class="pill">Markets</span><span class="pill">Briefing</span><span class="pill">Weekly</span></div>
+          <div class="project-links">
+            <a href="https://iris0614.github.io/global-finance-dashboard/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
+            <a href="https://github.com/iris0614/global-finance-dashboard" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+          </div>
+        </div>
+      </article>
+      <article class="project-card">
         <div class="project-media is-cover"><img src="img/energy.png?v=20261007" alt=""></div>
         <div class="project-body">
           <h3 data-i18n="p_energy_title">Transatlantic Energy</h3>
@@ -274,25 +299,13 @@ ul.task-list li input[type="checkbox"] {
           </div>
         </div>
       </article>
-      <article class="project-card">
-        <div class="project-media"><img src="img/pyxplor_logo.png" alt=""></div>
-        <div class="project-body">
-          <h3 data-i18n="p_pyx_title">Pyxplor</h3>
-          <p data-i18n="p_pyx_desc">Faster first look at a dataset, so the analysis can start with the business question.</p>
-          <div class="pills"><span class="pill">First look</span><span class="pill">EDA</span><span class="pill">Python</span></div>
-          <div class="project-links">
-            <a href="https://pyxplor.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer" data-i18n="docs">Docs</a>
-            <a href="https://github.com/UBC-MDS/PyXplor" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
-          </div>
-        </div>
-      </article>
     </div>
   </section>
 
   <section class="block" id="other">
     <p class="section-kicker"><span data-i18n="other_kicker">03 / Other</span></p>
     <h2 class="section-heading" data-i18n="other_title">Other work</h2>
-    <p class="other-lead lead-line" data-i18n="other_lead">Personal platforms for reading archives and investment research — how I think about markets.</p>
+    <p class="other-lead lead-line" data-i18n="other_lead">Reading, research tools, and how I think about markets.</p>
     <div class="project-grid other-grid">
       <article class="project-card">
         <div class="project-media is-cover"><img src="img/reading_notes.jpg?v=20261005" alt=""></div>
@@ -314,6 +327,18 @@ ul.task-list li input[type="checkbox"] {
           <div class="project-links">
             <a href="https://marketzen-app.vercel.app/" target="_blank" rel="noopener noreferrer" data-i18n="live">Live</a>
             <a href="https://github.com/iris0614/marketzen" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
+          </div>
+        </div>
+      </article>
+      <article class="project-card">
+        <div class="project-media"><img src="img/pyxplor_logo.png" alt=""></div>
+        <div class="project-body">
+          <h3 data-i18n="p_pyx_title">Pyxplor</h3>
+          <p data-i18n="p_pyx_desc">Faster first look at a dataset, so the analysis can start with the business question.</p>
+          <div class="pills"><span class="pill">First look</span><span class="pill">EDA</span><span class="pill">Python</span></div>
+          <div class="project-links">
+            <a href="https://pyxplor.readthedocs.io/en/latest/" target="_blank" rel="noopener noreferrer" data-i18n="docs">Docs</a>
+            <a href="https://github.com/UBC-MDS/PyXplor" target="_blank" rel="noopener noreferrer" data-i18n="github">GitHub</a>
           </div>
         </div>
       </article>
@@ -340,7 +365,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<script src="js/app.js?v=20261007-energy"></script>
+<script src="js/app.js?v=20261007-other"></script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
